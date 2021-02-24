@@ -1,0 +1,995 @@
+MSN,Year,Value,Column_Order,Description,Unit
+HVICBUS,1949,75.537,1,Hydroelectric Power Consumed by the Industrial Sector,Trillion Btu
+HVICBUS,1950,69.396,1,Hydroelectric Power Consumed by the Industrial Sector,Trillion Btu
+HVICBUS,1951,63.097,1,Hydroelectric Power Consumed by the Industrial Sector,Trillion Btu
+HVICBUS,1952,61.538,1,Hydroelectric Power Consumed by the Industrial Sector,Trillion Btu
+HVICBUS,1953,56.506,1,Hydroelectric Power Consumed by the Industrial Sector,Trillion Btu
+HVICBUS,1954,55.678,1,Hydroelectric Power Consumed by the Industrial Sector,Trillion Btu
+HVICBUS,1955,38.149,1,Hydroelectric Power Consumed by the Industrial Sector,Trillion Btu
+HVICBUS,1956,36.751,1,Hydroelectric Power Consumed by the Industrial Sector,Trillion Btu
+HVICBUS,1957,35.521,1,Hydroelectric Power Consumed by the Industrial Sector,Trillion Btu
+HVICBUS,1958,37.162,1,Hydroelectric Power Consumed by the Industrial Sector,Trillion Btu
+HVICBUS,1959,37.003,1,Hydroelectric Power Consumed by the Industrial Sector,Trillion Btu
+HVICBUS,1960,38.808,1,Hydroelectric Power Consumed by the Industrial Sector,Trillion Btu
+HVICBUS,1961,35.836,1,Hydroelectric Power Consumed by the Industrial Sector,Trillion Btu
+HVICBUS,1962,35.99,1,Hydroelectric Power Consumed by the Industrial Sector,Trillion Btu
+HVICBUS,1963,33.914,1,Hydroelectric Power Consumed by the Industrial Sector,Trillion Btu
+HVICBUS,1964,33.772,1,Hydroelectric Power Consumed by the Industrial Sector,Trillion Btu
+HVICBUS,1965,32.757,1,Hydroelectric Power Consumed by the Industrial Sector,Trillion Btu
+HVICBUS,1966,33.138,1,Hydroelectric Power Consumed by the Industrial Sector,Trillion Btu
+HVICBUS,1967,35.787,1,Hydroelectric Power Consumed by the Industrial Sector,Trillion Btu
+HVICBUS,1968,35.172,1,Hydroelectric Power Consumed by the Industrial Sector,Trillion Btu
+HVICBUS,1969,34.22,1,Hydroelectric Power Consumed by the Industrial Sector,Trillion Btu
+HVICBUS,1970,34.04,1,Hydroelectric Power Consumed by the Industrial Sector,Trillion Btu
+HVICBUS,1971,33.746,1,Hydroelectric Power Consumed by the Industrial Sector,Trillion Btu
+HVICBUS,1972,34.42,1,Hydroelectric Power Consumed by the Industrial Sector,Trillion Btu
+HVICBUS,1973,34.773,1,Hydroelectric Power Consumed by the Industrial Sector,Trillion Btu
+HVICBUS,1974,33.202,1,Hydroelectric Power Consumed by the Industrial Sector,Trillion Btu
+HVICBUS,1975,32.321,1,Hydroelectric Power Consumed by the Industrial Sector,Trillion Btu
+HVICBUS,1976,33.372,1,Hydroelectric Power Consumed by the Industrial Sector,Trillion Btu
+HVICBUS,1977,32.601,1,Hydroelectric Power Consumed by the Industrial Sector,Trillion Btu
+HVICBUS,1978,31.563,1,Hydroelectric Power Consumed by the Industrial Sector,Trillion Btu
+HVICBUS,1979,34.094,1,Hydroelectric Power Consumed by the Industrial Sector,Trillion Btu
+HVICBUS,1980,32.838,1,Hydroelectric Power Consumed by the Industrial Sector,Trillion Btu
+HVICBUS,1981,33.043,1,Hydroelectric Power Consumed by the Industrial Sector,Trillion Btu
+HVICBUS,1982,33.046,1,Hydroelectric Power Consumed by the Industrial Sector,Trillion Btu
+HVICBUS,1983,33.255,1,Hydroelectric Power Consumed by the Industrial Sector,Trillion Btu
+HVICBUS,1984,33.002,1,Hydroelectric Power Consumed by the Industrial Sector,Trillion Btu
+HVICBUS,1985,33.024,1,Hydroelectric Power Consumed by the Industrial Sector,Trillion Btu
+HVICBUS,1986,33.021,1,Hydroelectric Power Consumed by the Industrial Sector,Trillion Btu
+HVICBUS,1987,32.936,1,Hydroelectric Power Consumed by the Industrial Sector,Trillion Btu
+HVICBUS,1988,32.635,1,Hydroelectric Power Consumed by the Industrial Sector,Trillion Btu
+HVICBUS,1989,28.396,1,Hydroelectric Power Consumed by the Industrial Sector,Trillion Btu
+HVICBUS,1990,30.947,1,Hydroelectric Power Consumed by the Industrial Sector,Trillion Btu
+HVICBUS,1991,29.675,1,Hydroelectric Power Consumed by the Industrial Sector,Trillion Btu
+HVICBUS,1992,30.508,1,Hydroelectric Power Consumed by the Industrial Sector,Trillion Btu
+HVICBUS,1993,29.593,1,Hydroelectric Power Consumed by the Industrial Sector,Trillion Btu
+HVICBUS,1994,62.186,1,Hydroelectric Power Consumed by the Industrial Sector,Trillion Btu
+HVICBUS,1995,54.695,1,Hydroelectric Power Consumed by the Industrial Sector,Trillion Btu
+HVICBUS,1996,60.773,1,Hydroelectric Power Consumed by the Industrial Sector,Trillion Btu
+HVICBUS,1997,58.062,1,Hydroelectric Power Consumed by the Industrial Sector,Trillion Btu
+HVICBUS,1998,54.539,1,Hydroelectric Power Consumed by the Industrial Sector,Trillion Btu
+HVICBUS,1999,48.658,1,Hydroelectric Power Consumed by the Industrial Sector,Trillion Btu
+HVICBUS,2000,42.183,1,Hydroelectric Power Consumed by the Industrial Sector,Trillion Btu
+HVICBUS,2001,32.5,1,Hydroelectric Power Consumed by the Industrial Sector,Trillion Btu
+HVICBUS,2002,38.908,1,Hydroelectric Power Consumed by the Industrial Sector,Trillion Btu
+HVICBUS,2003,42.752,1,Hydroelectric Power Consumed by the Industrial Sector,Trillion Btu
+HVICBUS,2004,32.537,1,Hydroelectric Power Consumed by the Industrial Sector,Trillion Btu
+HVICBUS,2005,31.951,1,Hydroelectric Power Consumed by the Industrial Sector,Trillion Btu
+HVICBUS,2006,28.756,1,Hydroelectric Power Consumed by the Industrial Sector,Trillion Btu
+HVICBUS,2007,15.715,1,Hydroelectric Power Consumed by the Industrial Sector,Trillion Btu
+HVICBUS,2008,16.514,1,Hydroelectric Power Consumed by the Industrial Sector,Trillion Btu
+HVICBUS,2009,18.235,1,Hydroelectric Power Consumed by the Industrial Sector,Trillion Btu
+HVICBUS,2010,16.27,1,Hydroelectric Power Consumed by the Industrial Sector,Trillion Btu
+HVICBUS,2011,17.477,1,Hydroelectric Power Consumed by the Industrial Sector,Trillion Btu
+HVICBUS,2012,22.393,1,Hydroelectric Power Consumed by the Industrial Sector,Trillion Btu
+HVICBUS,2013,33.04,1,Hydroelectric Power Consumed by the Industrial Sector,Trillion Btu
+HVICBUS,2014,12.192,1,Hydroelectric Power Consumed by the Industrial Sector,Trillion Btu
+HVICBUS,2015,13.135,1,Hydroelectric Power Consumed by the Industrial Sector,Trillion Btu
+HVICBUS,2016,11.717,1,Hydroelectric Power Consumed by the Industrial Sector,Trillion Btu
+HVICBUS,2017,12.736,1,Hydroelectric Power Consumed by the Industrial Sector,Trillion Btu
+HVICBUS,2018,10.461,1,Hydroelectric Power Consumed by the Industrial Sector,Trillion Btu
+HVICBUS,2019,9.202,1,Hydroelectric Power Consumed by the Industrial Sector,Trillion Btu
+GEICBUS,1949,Not Available,2,Geothermal Energy Consumed by the Industrial Sector,Trillion Btu
+GEICBUS,1950,Not Available,2,Geothermal Energy Consumed by the Industrial Sector,Trillion Btu
+GEICBUS,1951,Not Available,2,Geothermal Energy Consumed by the Industrial Sector,Trillion Btu
+GEICBUS,1952,Not Available,2,Geothermal Energy Consumed by the Industrial Sector,Trillion Btu
+GEICBUS,1953,Not Available,2,Geothermal Energy Consumed by the Industrial Sector,Trillion Btu
+GEICBUS,1954,Not Available,2,Geothermal Energy Consumed by the Industrial Sector,Trillion Btu
+GEICBUS,1955,Not Available,2,Geothermal Energy Consumed by the Industrial Sector,Trillion Btu
+GEICBUS,1956,Not Available,2,Geothermal Energy Consumed by the Industrial Sector,Trillion Btu
+GEICBUS,1957,Not Available,2,Geothermal Energy Consumed by the Industrial Sector,Trillion Btu
+GEICBUS,1958,Not Available,2,Geothermal Energy Consumed by the Industrial Sector,Trillion Btu
+GEICBUS,1959,Not Available,2,Geothermal Energy Consumed by the Industrial Sector,Trillion Btu
+GEICBUS,1960,Not Available,2,Geothermal Energy Consumed by the Industrial Sector,Trillion Btu
+GEICBUS,1961,Not Available,2,Geothermal Energy Consumed by the Industrial Sector,Trillion Btu
+GEICBUS,1962,Not Available,2,Geothermal Energy Consumed by the Industrial Sector,Trillion Btu
+GEICBUS,1963,Not Available,2,Geothermal Energy Consumed by the Industrial Sector,Trillion Btu
+GEICBUS,1964,Not Available,2,Geothermal Energy Consumed by the Industrial Sector,Trillion Btu
+GEICBUS,1965,Not Available,2,Geothermal Energy Consumed by the Industrial Sector,Trillion Btu
+GEICBUS,1966,Not Available,2,Geothermal Energy Consumed by the Industrial Sector,Trillion Btu
+GEICBUS,1967,Not Available,2,Geothermal Energy Consumed by the Industrial Sector,Trillion Btu
+GEICBUS,1968,Not Available,2,Geothermal Energy Consumed by the Industrial Sector,Trillion Btu
+GEICBUS,1969,Not Available,2,Geothermal Energy Consumed by the Industrial Sector,Trillion Btu
+GEICBUS,1970,Not Available,2,Geothermal Energy Consumed by the Industrial Sector,Trillion Btu
+GEICBUS,1971,Not Available,2,Geothermal Energy Consumed by the Industrial Sector,Trillion Btu
+GEICBUS,1972,Not Available,2,Geothermal Energy Consumed by the Industrial Sector,Trillion Btu
+GEICBUS,1973,Not Available,2,Geothermal Energy Consumed by the Industrial Sector,Trillion Btu
+GEICBUS,1974,Not Available,2,Geothermal Energy Consumed by the Industrial Sector,Trillion Btu
+GEICBUS,1975,Not Available,2,Geothermal Energy Consumed by the Industrial Sector,Trillion Btu
+GEICBUS,1976,Not Available,2,Geothermal Energy Consumed by the Industrial Sector,Trillion Btu
+GEICBUS,1977,Not Available,2,Geothermal Energy Consumed by the Industrial Sector,Trillion Btu
+GEICBUS,1978,Not Available,2,Geothermal Energy Consumed by the Industrial Sector,Trillion Btu
+GEICBUS,1979,Not Available,2,Geothermal Energy Consumed by the Industrial Sector,Trillion Btu
+GEICBUS,1980,Not Available,2,Geothermal Energy Consumed by the Industrial Sector,Trillion Btu
+GEICBUS,1981,Not Available,2,Geothermal Energy Consumed by the Industrial Sector,Trillion Btu
+GEICBUS,1982,Not Available,2,Geothermal Energy Consumed by the Industrial Sector,Trillion Btu
+GEICBUS,1983,Not Available,2,Geothermal Energy Consumed by the Industrial Sector,Trillion Btu
+GEICBUS,1984,Not Available,2,Geothermal Energy Consumed by the Industrial Sector,Trillion Btu
+GEICBUS,1985,Not Available,2,Geothermal Energy Consumed by the Industrial Sector,Trillion Btu
+GEICBUS,1986,Not Available,2,Geothermal Energy Consumed by the Industrial Sector,Trillion Btu
+GEICBUS,1987,Not Available,2,Geothermal Energy Consumed by the Industrial Sector,Trillion Btu
+GEICBUS,1988,Not Available,2,Geothermal Energy Consumed by the Industrial Sector,Trillion Btu
+GEICBUS,1989,1.8,2,Geothermal Energy Consumed by the Industrial Sector,Trillion Btu
+GEICBUS,1990,1.9,2,Geothermal Energy Consumed by the Industrial Sector,Trillion Btu
+GEICBUS,1991,2.1,2,Geothermal Energy Consumed by the Industrial Sector,Trillion Btu
+GEICBUS,1992,2.2,2,Geothermal Energy Consumed by the Industrial Sector,Trillion Btu
+GEICBUS,1993,2.4,2,Geothermal Energy Consumed by the Industrial Sector,Trillion Btu
+GEICBUS,1994,2.8,2,Geothermal Energy Consumed by the Industrial Sector,Trillion Btu
+GEICBUS,1995,3,2,Geothermal Energy Consumed by the Industrial Sector,Trillion Btu
+GEICBUS,1996,2.9,2,Geothermal Energy Consumed by the Industrial Sector,Trillion Btu
+GEICBUS,1997,3.1,2,Geothermal Energy Consumed by the Industrial Sector,Trillion Btu
+GEICBUS,1998,3,2,Geothermal Energy Consumed by the Industrial Sector,Trillion Btu
+GEICBUS,1999,4.1,2,Geothermal Energy Consumed by the Industrial Sector,Trillion Btu
+GEICBUS,2000,4.4,2,Geothermal Energy Consumed by the Industrial Sector,Trillion Btu
+GEICBUS,2001,4.76,2,Geothermal Energy Consumed by the Industrial Sector,Trillion Btu
+GEICBUS,2002,4.787,2,Geothermal Energy Consumed by the Industrial Sector,Trillion Btu
+GEICBUS,2003,3.4,2,Geothermal Energy Consumed by the Industrial Sector,Trillion Btu
+GEICBUS,2004,3.8,2,Geothermal Energy Consumed by the Industrial Sector,Trillion Btu
+GEICBUS,2005,4.3,2,Geothermal Energy Consumed by the Industrial Sector,Trillion Btu
+GEICBUS,2006,4.4,2,Geothermal Energy Consumed by the Industrial Sector,Trillion Btu
+GEICBUS,2007,4.7,2,Geothermal Energy Consumed by the Industrial Sector,Trillion Btu
+GEICBUS,2008,5,2,Geothermal Energy Consumed by the Industrial Sector,Trillion Btu
+GEICBUS,2009,4.2,2,Geothermal Energy Consumed by the Industrial Sector,Trillion Btu
+GEICBUS,2010,4.2,2,Geothermal Energy Consumed by the Industrial Sector,Trillion Btu
+GEICBUS,2011,4.2,2,Geothermal Energy Consumed by the Industrial Sector,Trillion Btu
+GEICBUS,2012,4.2,2,Geothermal Energy Consumed by the Industrial Sector,Trillion Btu
+GEICBUS,2013,4.2,2,Geothermal Energy Consumed by the Industrial Sector,Trillion Btu
+GEICBUS,2014,4.2,2,Geothermal Energy Consumed by the Industrial Sector,Trillion Btu
+GEICBUS,2015,4.2,2,Geothermal Energy Consumed by the Industrial Sector,Trillion Btu
+GEICBUS,2016,4.2,2,Geothermal Energy Consumed by the Industrial Sector,Trillion Btu
+GEICBUS,2017,4.2,2,Geothermal Energy Consumed by the Industrial Sector,Trillion Btu
+GEICBUS,2018,4.2,2,Geothermal Energy Consumed by the Industrial Sector,Trillion Btu
+GEICBUS,2019,4.2,2,Geothermal Energy Consumed by the Industrial Sector,Trillion Btu
+SOICBUS,1949,Not Available,3,Solar Energy Consumed by the Industrial Sector,Trillion Btu
+SOICBUS,1950,Not Available,3,Solar Energy Consumed by the Industrial Sector,Trillion Btu
+SOICBUS,1951,Not Available,3,Solar Energy Consumed by the Industrial Sector,Trillion Btu
+SOICBUS,1952,Not Available,3,Solar Energy Consumed by the Industrial Sector,Trillion Btu
+SOICBUS,1953,Not Available,3,Solar Energy Consumed by the Industrial Sector,Trillion Btu
+SOICBUS,1954,Not Available,3,Solar Energy Consumed by the Industrial Sector,Trillion Btu
+SOICBUS,1955,Not Available,3,Solar Energy Consumed by the Industrial Sector,Trillion Btu
+SOICBUS,1956,Not Available,3,Solar Energy Consumed by the Industrial Sector,Trillion Btu
+SOICBUS,1957,Not Available,3,Solar Energy Consumed by the Industrial Sector,Trillion Btu
+SOICBUS,1958,Not Available,3,Solar Energy Consumed by the Industrial Sector,Trillion Btu
+SOICBUS,1959,Not Available,3,Solar Energy Consumed by the Industrial Sector,Trillion Btu
+SOICBUS,1960,Not Available,3,Solar Energy Consumed by the Industrial Sector,Trillion Btu
+SOICBUS,1961,Not Available,3,Solar Energy Consumed by the Industrial Sector,Trillion Btu
+SOICBUS,1962,Not Available,3,Solar Energy Consumed by the Industrial Sector,Trillion Btu
+SOICBUS,1963,Not Available,3,Solar Energy Consumed by the Industrial Sector,Trillion Btu
+SOICBUS,1964,Not Available,3,Solar Energy Consumed by the Industrial Sector,Trillion Btu
+SOICBUS,1965,Not Available,3,Solar Energy Consumed by the Industrial Sector,Trillion Btu
+SOICBUS,1966,Not Available,3,Solar Energy Consumed by the Industrial Sector,Trillion Btu
+SOICBUS,1967,Not Available,3,Solar Energy Consumed by the Industrial Sector,Trillion Btu
+SOICBUS,1968,Not Available,3,Solar Energy Consumed by the Industrial Sector,Trillion Btu
+SOICBUS,1969,Not Available,3,Solar Energy Consumed by the Industrial Sector,Trillion Btu
+SOICBUS,1970,Not Available,3,Solar Energy Consumed by the Industrial Sector,Trillion Btu
+SOICBUS,1971,Not Available,3,Solar Energy Consumed by the Industrial Sector,Trillion Btu
+SOICBUS,1972,Not Available,3,Solar Energy Consumed by the Industrial Sector,Trillion Btu
+SOICBUS,1973,Not Available,3,Solar Energy Consumed by the Industrial Sector,Trillion Btu
+SOICBUS,1974,Not Available,3,Solar Energy Consumed by the Industrial Sector,Trillion Btu
+SOICBUS,1975,Not Available,3,Solar Energy Consumed by the Industrial Sector,Trillion Btu
+SOICBUS,1976,Not Available,3,Solar Energy Consumed by the Industrial Sector,Trillion Btu
+SOICBUS,1977,Not Available,3,Solar Energy Consumed by the Industrial Sector,Trillion Btu
+SOICBUS,1978,Not Available,3,Solar Energy Consumed by the Industrial Sector,Trillion Btu
+SOICBUS,1979,Not Available,3,Solar Energy Consumed by the Industrial Sector,Trillion Btu
+SOICBUS,1980,Not Available,3,Solar Energy Consumed by the Industrial Sector,Trillion Btu
+SOICBUS,1981,Not Available,3,Solar Energy Consumed by the Industrial Sector,Trillion Btu
+SOICBUS,1982,Not Available,3,Solar Energy Consumed by the Industrial Sector,Trillion Btu
+SOICBUS,1983,Not Available,3,Solar Energy Consumed by the Industrial Sector,Trillion Btu
+SOICBUS,1984,Not Available,3,Solar Energy Consumed by the Industrial Sector,Trillion Btu
+SOICBUS,1985,Not Available,3,Solar Energy Consumed by the Industrial Sector,Trillion Btu
+SOICBUS,1986,Not Available,3,Solar Energy Consumed by the Industrial Sector,Trillion Btu
+SOICBUS,1987,Not Available,3,Solar Energy Consumed by the Industrial Sector,Trillion Btu
+SOICBUS,1988,Not Available,3,Solar Energy Consumed by the Industrial Sector,Trillion Btu
+SOICBUS,1989,0.036,3,Solar Energy Consumed by the Industrial Sector,Trillion Btu
+SOICBUS,1990,0.041,3,Solar Energy Consumed by the Industrial Sector,Trillion Btu
+SOICBUS,1991,0.046,3,Solar Energy Consumed by the Industrial Sector,Trillion Btu
+SOICBUS,1992,0.05,3,Solar Energy Consumed by the Industrial Sector,Trillion Btu
+SOICBUS,1993,0.054,3,Solar Energy Consumed by the Industrial Sector,Trillion Btu
+SOICBUS,1994,0.061,3,Solar Energy Consumed by the Industrial Sector,Trillion Btu
+SOICBUS,1995,0.07,3,Solar Energy Consumed by the Industrial Sector,Trillion Btu
+SOICBUS,1996,0.08,3,Solar Energy Consumed by the Industrial Sector,Trillion Btu
+SOICBUS,1997,0.089,3,Solar Energy Consumed by the Industrial Sector,Trillion Btu
+SOICBUS,1998,0.1,3,Solar Energy Consumed by the Industrial Sector,Trillion Btu
+SOICBUS,1999,0.117,3,Solar Energy Consumed by the Industrial Sector,Trillion Btu
+SOICBUS,2000,0.132,3,Solar Energy Consumed by the Industrial Sector,Trillion Btu
+SOICBUS,2001,0.162,3,Solar Energy Consumed by the Industrial Sector,Trillion Btu
+SOICBUS,2002,0.189,3,Solar Energy Consumed by the Industrial Sector,Trillion Btu
+SOICBUS,2003,0.22,3,Solar Energy Consumed by the Industrial Sector,Trillion Btu
+SOICBUS,2004,0.269,3,Solar Energy Consumed by the Industrial Sector,Trillion Btu
+SOICBUS,2005,0.403,3,Solar Energy Consumed by the Industrial Sector,Trillion Btu
+SOICBUS,2006,0.583,3,Solar Energy Consumed by the Industrial Sector,Trillion Btu
+SOICBUS,2007,0.821,3,Solar Energy Consumed by the Industrial Sector,Trillion Btu
+SOICBUS,2008,1.315,3,Solar Energy Consumed by the Industrial Sector,Trillion Btu
+SOICBUS,2009,1.751,3,Solar Energy Consumed by the Industrial Sector,Trillion Btu
+SOICBUS,2010,2.69,3,Solar Energy Consumed by the Industrial Sector,Trillion Btu
+SOICBUS,2011,4.411,3,Solar Energy Consumed by the Industrial Sector,Trillion Btu
+SOICBUS,2012,7.196,3,Solar Energy Consumed by the Industrial Sector,Trillion Btu
+SOICBUS,2013,8.665,3,Solar Energy Consumed by the Industrial Sector,Trillion Btu
+SOICBUS,2014,10.992,3,Solar Energy Consumed by the Industrial Sector,Trillion Btu
+SOICBUS,2015,13.722,3,Solar Energy Consumed by the Industrial Sector,Trillion Btu
+SOICBUS,2016,19.269,3,Solar Energy Consumed by the Industrial Sector,Trillion Btu
+SOICBUS,2017,22.168,3,Solar Energy Consumed by the Industrial Sector,Trillion Btu
+SOICBUS,2018,24.429,3,Solar Energy Consumed by the Industrial Sector,Trillion Btu
+SOICBUS,2019,27.839,3,Solar Energy Consumed by the Industrial Sector,Trillion Btu
+WYICBUS,1949,Not Available,4,Wind Energy Consumed by the Industrial Sector,Trillion Btu
+WYICBUS,1950,Not Available,4,Wind Energy Consumed by the Industrial Sector,Trillion Btu
+WYICBUS,1951,Not Available,4,Wind Energy Consumed by the Industrial Sector,Trillion Btu
+WYICBUS,1952,Not Available,4,Wind Energy Consumed by the Industrial Sector,Trillion Btu
+WYICBUS,1953,Not Available,4,Wind Energy Consumed by the Industrial Sector,Trillion Btu
+WYICBUS,1954,Not Available,4,Wind Energy Consumed by the Industrial Sector,Trillion Btu
+WYICBUS,1955,Not Available,4,Wind Energy Consumed by the Industrial Sector,Trillion Btu
+WYICBUS,1956,Not Available,4,Wind Energy Consumed by the Industrial Sector,Trillion Btu
+WYICBUS,1957,Not Available,4,Wind Energy Consumed by the Industrial Sector,Trillion Btu
+WYICBUS,1958,Not Available,4,Wind Energy Consumed by the Industrial Sector,Trillion Btu
+WYICBUS,1959,Not Available,4,Wind Energy Consumed by the Industrial Sector,Trillion Btu
+WYICBUS,1960,Not Available,4,Wind Energy Consumed by the Industrial Sector,Trillion Btu
+WYICBUS,1961,Not Available,4,Wind Energy Consumed by the Industrial Sector,Trillion Btu
+WYICBUS,1962,Not Available,4,Wind Energy Consumed by the Industrial Sector,Trillion Btu
+WYICBUS,1963,Not Available,4,Wind Energy Consumed by the Industrial Sector,Trillion Btu
+WYICBUS,1964,Not Available,4,Wind Energy Consumed by the Industrial Sector,Trillion Btu
+WYICBUS,1965,Not Available,4,Wind Energy Consumed by the Industrial Sector,Trillion Btu
+WYICBUS,1966,Not Available,4,Wind Energy Consumed by the Industrial Sector,Trillion Btu
+WYICBUS,1967,Not Available,4,Wind Energy Consumed by the Industrial Sector,Trillion Btu
+WYICBUS,1968,Not Available,4,Wind Energy Consumed by the Industrial Sector,Trillion Btu
+WYICBUS,1969,Not Available,4,Wind Energy Consumed by the Industrial Sector,Trillion Btu
+WYICBUS,1970,Not Available,4,Wind Energy Consumed by the Industrial Sector,Trillion Btu
+WYICBUS,1971,Not Available,4,Wind Energy Consumed by the Industrial Sector,Trillion Btu
+WYICBUS,1972,Not Available,4,Wind Energy Consumed by the Industrial Sector,Trillion Btu
+WYICBUS,1973,Not Available,4,Wind Energy Consumed by the Industrial Sector,Trillion Btu
+WYICBUS,1974,Not Available,4,Wind Energy Consumed by the Industrial Sector,Trillion Btu
+WYICBUS,1975,Not Available,4,Wind Energy Consumed by the Industrial Sector,Trillion Btu
+WYICBUS,1976,Not Available,4,Wind Energy Consumed by the Industrial Sector,Trillion Btu
+WYICBUS,1977,Not Available,4,Wind Energy Consumed by the Industrial Sector,Trillion Btu
+WYICBUS,1978,Not Available,4,Wind Energy Consumed by the Industrial Sector,Trillion Btu
+WYICBUS,1979,Not Available,4,Wind Energy Consumed by the Industrial Sector,Trillion Btu
+WYICBUS,1980,Not Available,4,Wind Energy Consumed by the Industrial Sector,Trillion Btu
+WYICBUS,1981,Not Available,4,Wind Energy Consumed by the Industrial Sector,Trillion Btu
+WYICBUS,1982,Not Available,4,Wind Energy Consumed by the Industrial Sector,Trillion Btu
+WYICBUS,1983,Not Available,4,Wind Energy Consumed by the Industrial Sector,Trillion Btu
+WYICBUS,1984,Not Available,4,Wind Energy Consumed by the Industrial Sector,Trillion Btu
+WYICBUS,1985,Not Available,4,Wind Energy Consumed by the Industrial Sector,Trillion Btu
+WYICBUS,1986,Not Available,4,Wind Energy Consumed by the Industrial Sector,Trillion Btu
+WYICBUS,1987,Not Available,4,Wind Energy Consumed by the Industrial Sector,Trillion Btu
+WYICBUS,1988,Not Available,4,Wind Energy Consumed by the Industrial Sector,Trillion Btu
+WYICBUS,1989,No Data Reported,4,Wind Energy Consumed by the Industrial Sector,Trillion Btu
+WYICBUS,1990,No Data Reported,4,Wind Energy Consumed by the Industrial Sector,Trillion Btu
+WYICBUS,1991,No Data Reported,4,Wind Energy Consumed by the Industrial Sector,Trillion Btu
+WYICBUS,1992,No Data Reported,4,Wind Energy Consumed by the Industrial Sector,Trillion Btu
+WYICBUS,1993,No Data Reported,4,Wind Energy Consumed by the Industrial Sector,Trillion Btu
+WYICBUS,1994,No Data Reported,4,Wind Energy Consumed by the Industrial Sector,Trillion Btu
+WYICBUS,1995,No Data Reported,4,Wind Energy Consumed by the Industrial Sector,Trillion Btu
+WYICBUS,1996,No Data Reported,4,Wind Energy Consumed by the Industrial Sector,Trillion Btu
+WYICBUS,1997,No Data Reported,4,Wind Energy Consumed by the Industrial Sector,Trillion Btu
+WYICBUS,1998,No Data Reported,4,Wind Energy Consumed by the Industrial Sector,Trillion Btu
+WYICBUS,1999,No Data Reported,4,Wind Energy Consumed by the Industrial Sector,Trillion Btu
+WYICBUS,2000,No Data Reported,4,Wind Energy Consumed by the Industrial Sector,Trillion Btu
+WYICBUS,2001,No Data Reported,4,Wind Energy Consumed by the Industrial Sector,Trillion Btu
+WYICBUS,2002,No Data Reported,4,Wind Energy Consumed by the Industrial Sector,Trillion Btu
+WYICBUS,2003,No Data Reported,4,Wind Energy Consumed by the Industrial Sector,Trillion Btu
+WYICBUS,2004,No Data Reported,4,Wind Energy Consumed by the Industrial Sector,Trillion Btu
+WYICBUS,2005,No Data Reported,4,Wind Energy Consumed by the Industrial Sector,Trillion Btu
+WYICBUS,2006,No Data Reported,4,Wind Energy Consumed by the Industrial Sector,Trillion Btu
+WYICBUS,2007,No Data Reported,4,Wind Energy Consumed by the Industrial Sector,Trillion Btu
+WYICBUS,2008,No Data Reported,4,Wind Energy Consumed by the Industrial Sector,Trillion Btu
+WYICBUS,2009,No Data Reported,4,Wind Energy Consumed by the Industrial Sector,Trillion Btu
+WYICBUS,2010,No Data Reported,4,Wind Energy Consumed by the Industrial Sector,Trillion Btu
+WYICBUS,2011,0.047,4,Wind Energy Consumed by the Industrial Sector,Trillion Btu
+WYICBUS,2012,0.182,4,Wind Energy Consumed by the Industrial Sector,Trillion Btu
+WYICBUS,2013,0.356,4,Wind Energy Consumed by the Industrial Sector,Trillion Btu
+WYICBUS,2014,0.503,4,Wind Energy Consumed by the Industrial Sector,Trillion Btu
+WYICBUS,2015,0.497,4,Wind Energy Consumed by the Industrial Sector,Trillion Btu
+WYICBUS,2016,0.653,4,Wind Energy Consumed by the Industrial Sector,Trillion Btu
+WYICBUS,2017,0.778,4,Wind Energy Consumed by the Industrial Sector,Trillion Btu
+WYICBUS,2018,0.882,4,Wind Energy Consumed by the Industrial Sector,Trillion Btu
+WYICBUS,2019,0.887,4,Wind Energy Consumed by the Industrial Sector,Trillion Btu
+WDICBUS,1949,468.287,5,Wood Energy Consumed by the Industrial Sector,Trillion Btu
+WDICBUS,1950,532.237,5,Wood Energy Consumed by the Industrial Sector,Trillion Btu
+WDICBUS,1951,552.928,5,Wood Energy Consumed by the Industrial Sector,Trillion Btu
+WDICBUS,1952,551.656,5,Wood Energy Consumed by the Industrial Sector,Trillion Btu
+WDICBUS,1953,565.897,5,Wood Energy Consumed by the Industrial Sector,Trillion Btu
+WDICBUS,1954,576.2,5,Wood Energy Consumed by the Industrial Sector,Trillion Btu
+WDICBUS,1955,631.137,5,Wood Energy Consumed by the Industrial Sector,Trillion Btu
+WDICBUS,1956,661.409,5,Wood Energy Consumed by the Industrial Sector,Trillion Btu
+WDICBUS,1957,616.431,5,Wood Energy Consumed by the Industrial Sector,Trillion Btu
+WDICBUS,1958,619.647,5,Wood Energy Consumed by the Industrial Sector,Trillion Btu
+WDICBUS,1959,691.973,5,Wood Energy Consumed by the Industrial Sector,Trillion Btu
+WDICBUS,1960,679.864,5,Wood Energy Consumed by the Industrial Sector,Trillion Btu
+WDICBUS,1961,695.413,5,Wood Energy Consumed by the Industrial Sector,Trillion Btu
+WDICBUS,1962,728.179,5,Wood Energy Consumed by the Industrial Sector,Trillion Btu
+WDICBUS,1963,774.843,5,Wood Energy Consumed by the Industrial Sector,Trillion Btu
+WDICBUS,1964,826.735,5,Wood Energy Consumed by the Industrial Sector,Trillion Btu
+WDICBUS,1965,854.943,5,Wood Energy Consumed by the Industrial Sector,Trillion Btu
+WDICBUS,1966,901.916,5,Wood Energy Consumed by the Industrial Sector,Trillion Btu
+WDICBUS,1967,894.658,5,Wood Energy Consumed by the Industrial Sector,Trillion Btu
+WDICBUS,1968,981.948,5,Wood Energy Consumed by the Industrial Sector,Trillion Btu
+WDICBUS,1969,1014.232,5,Wood Energy Consumed by the Industrial Sector,Trillion Btu
+WDICBUS,1970,1018.911,5,Wood Energy Consumed by the Industrial Sector,Trillion Btu
+WDICBUS,1971,1039.998,5,Wood Energy Consumed by the Industrial Sector,Trillion Btu
+WDICBUS,1972,1112.668,5,Wood Energy Consumed by the Industrial Sector,Trillion Btu
+WDICBUS,1973,1164.853,5,Wood Energy Consumed by the Industrial Sector,Trillion Btu
+WDICBUS,1974,1159.074,5,Wood Energy Consumed by the Industrial Sector,Trillion Btu
+WDICBUS,1975,1063.27,5,Wood Energy Consumed by the Industrial Sector,Trillion Btu
+WDICBUS,1976,1219.876,5,Wood Energy Consumed by the Industrial Sector,Trillion Btu
+WDICBUS,1977,1281.245,5,Wood Energy Consumed by the Industrial Sector,Trillion Btu
+WDICBUS,1978,1400.424,5,Wood Energy Consumed by the Industrial Sector,Trillion Btu
+WDICBUS,1979,1404.862,5,Wood Energy Consumed by the Industrial Sector,Trillion Btu
+WDICBUS,1980,1600,5,Wood Energy Consumed by the Industrial Sector,Trillion Btu
+WDICBUS,1981,1602,5,Wood Energy Consumed by the Industrial Sector,Trillion Btu
+WDICBUS,1982,1516,5,Wood Energy Consumed by the Industrial Sector,Trillion Btu
+WDICBUS,1983,1690,5,Wood Energy Consumed by the Industrial Sector,Trillion Btu
+WDICBUS,1984,1679,5,Wood Energy Consumed by the Industrial Sector,Trillion Btu
+WDICBUS,1985,1645,5,Wood Energy Consumed by the Industrial Sector,Trillion Btu
+WDICBUS,1986,1610,5,Wood Energy Consumed by the Industrial Sector,Trillion Btu
+WDICBUS,1987,1576,5,Wood Energy Consumed by the Industrial Sector,Trillion Btu
+WDICBUS,1988,1625,5,Wood Energy Consumed by the Industrial Sector,Trillion Btu
+WDICBUS,1989,1583.563,5,Wood Energy Consumed by the Industrial Sector,Trillion Btu
+WDICBUS,1990,1441.912,5,Wood Energy Consumed by the Industrial Sector,Trillion Btu
+WDICBUS,1991,1409.847,5,Wood Energy Consumed by the Industrial Sector,Trillion Btu
+WDICBUS,1992,1461.223,5,Wood Energy Consumed by the Industrial Sector,Trillion Btu
+WDICBUS,1993,1484.345,5,Wood Energy Consumed by the Industrial Sector,Trillion Btu
+WDICBUS,1994,1579.77,5,Wood Energy Consumed by the Industrial Sector,Trillion Btu
+WDICBUS,1995,1652.078,5,Wood Energy Consumed by the Industrial Sector,Trillion Btu
+WDICBUS,1996,1683.499,5,Wood Energy Consumed by the Industrial Sector,Trillion Btu
+WDICBUS,1997,1730.613,5,Wood Energy Consumed by the Industrial Sector,Trillion Btu
+WDICBUS,1998,1603.44,5,Wood Energy Consumed by the Industrial Sector,Trillion Btu
+WDICBUS,1999,1619.52,5,Wood Energy Consumed by the Industrial Sector,Trillion Btu
+WDICBUS,2000,1635.925,5,Wood Energy Consumed by the Industrial Sector,Trillion Btu
+WDICBUS,2001,1442.644,5,Wood Energy Consumed by the Industrial Sector,Trillion Btu
+WDICBUS,2002,1396.434,5,Wood Energy Consumed by the Industrial Sector,Trillion Btu
+WDICBUS,2003,1363.315,5,Wood Energy Consumed by the Industrial Sector,Trillion Btu
+WDICBUS,2004,1475.735,5,Wood Energy Consumed by the Industrial Sector,Trillion Btu
+WDICBUS,2005,1451.729,5,Wood Energy Consumed by the Industrial Sector,Trillion Btu
+WDICBUS,2006,1472.398,5,Wood Energy Consumed by the Industrial Sector,Trillion Btu
+WDICBUS,2007,1413.023,5,Wood Energy Consumed by the Industrial Sector,Trillion Btu
+WDICBUS,2008,1338.734,5,Wood Energy Consumed by the Industrial Sector,Trillion Btu
+WDICBUS,2009,1178.37,5,Wood Energy Consumed by the Industrial Sector,Trillion Btu
+WDICBUS,2010,1409,5,Wood Energy Consumed by the Industrial Sector,Trillion Btu
+WDICBUS,2011,1437.638,5,Wood Energy Consumed by the Industrial Sector,Trillion Btu
+WDICBUS,2012,1462.245,5,Wood Energy Consumed by the Industrial Sector,Trillion Btu
+WDICBUS,2013,1489.011,5,Wood Energy Consumed by the Industrial Sector,Trillion Btu
+WDICBUS,2014,1495,5,Wood Energy Consumed by the Industrial Sector,Trillion Btu
+WDICBUS,2015,1475.888,5,Wood Energy Consumed by the Industrial Sector,Trillion Btu
+WDICBUS,2016,1473.776,5,Wood Energy Consumed by the Industrial Sector,Trillion Btu
+WDICBUS,2017,1442.324,5,Wood Energy Consumed by the Industrial Sector,Trillion Btu
+WDICBUS,2018,1438.03,5,Wood Energy Consumed by the Industrial Sector,Trillion Btu
+WDICBUS,2019,1413.013,5,Wood Energy Consumed by the Industrial Sector,Trillion Btu
+WSICBUS,1949,Not Available,6,Waste Energy Consumed by the Industrial Sector,Trillion Btu
+WSICBUS,1950,Not Available,6,Waste Energy Consumed by the Industrial Sector,Trillion Btu
+WSICBUS,1951,Not Available,6,Waste Energy Consumed by the Industrial Sector,Trillion Btu
+WSICBUS,1952,Not Available,6,Waste Energy Consumed by the Industrial Sector,Trillion Btu
+WSICBUS,1953,Not Available,6,Waste Energy Consumed by the Industrial Sector,Trillion Btu
+WSICBUS,1954,Not Available,6,Waste Energy Consumed by the Industrial Sector,Trillion Btu
+WSICBUS,1955,Not Available,6,Waste Energy Consumed by the Industrial Sector,Trillion Btu
+WSICBUS,1956,Not Available,6,Waste Energy Consumed by the Industrial Sector,Trillion Btu
+WSICBUS,1957,Not Available,6,Waste Energy Consumed by the Industrial Sector,Trillion Btu
+WSICBUS,1958,Not Available,6,Waste Energy Consumed by the Industrial Sector,Trillion Btu
+WSICBUS,1959,Not Available,6,Waste Energy Consumed by the Industrial Sector,Trillion Btu
+WSICBUS,1960,Not Available,6,Waste Energy Consumed by the Industrial Sector,Trillion Btu
+WSICBUS,1961,Not Available,6,Waste Energy Consumed by the Industrial Sector,Trillion Btu
+WSICBUS,1962,Not Available,6,Waste Energy Consumed by the Industrial Sector,Trillion Btu
+WSICBUS,1963,Not Available,6,Waste Energy Consumed by the Industrial Sector,Trillion Btu
+WSICBUS,1964,Not Available,6,Waste Energy Consumed by the Industrial Sector,Trillion Btu
+WSICBUS,1965,Not Available,6,Waste Energy Consumed by the Industrial Sector,Trillion Btu
+WSICBUS,1966,Not Available,6,Waste Energy Consumed by the Industrial Sector,Trillion Btu
+WSICBUS,1967,Not Available,6,Waste Energy Consumed by the Industrial Sector,Trillion Btu
+WSICBUS,1968,Not Available,6,Waste Energy Consumed by the Industrial Sector,Trillion Btu
+WSICBUS,1969,Not Available,6,Waste Energy Consumed by the Industrial Sector,Trillion Btu
+WSICBUS,1970,Not Available,6,Waste Energy Consumed by the Industrial Sector,Trillion Btu
+WSICBUS,1971,Not Available,6,Waste Energy Consumed by the Industrial Sector,Trillion Btu
+WSICBUS,1972,Not Available,6,Waste Energy Consumed by the Industrial Sector,Trillion Btu
+WSICBUS,1973,Not Available,6,Waste Energy Consumed by the Industrial Sector,Trillion Btu
+WSICBUS,1974,Not Available,6,Waste Energy Consumed by the Industrial Sector,Trillion Btu
+WSICBUS,1975,Not Available,6,Waste Energy Consumed by the Industrial Sector,Trillion Btu
+WSICBUS,1976,Not Available,6,Waste Energy Consumed by the Industrial Sector,Trillion Btu
+WSICBUS,1977,Not Available,6,Waste Energy Consumed by the Industrial Sector,Trillion Btu
+WSICBUS,1978,Not Available,6,Waste Energy Consumed by the Industrial Sector,Trillion Btu
+WSICBUS,1979,Not Available,6,Waste Energy Consumed by the Industrial Sector,Trillion Btu
+WSICBUS,1980,Not Available,6,Waste Energy Consumed by the Industrial Sector,Trillion Btu
+WSICBUS,1981,86.718,6,Waste Energy Consumed by the Industrial Sector,Trillion Btu
+WSICBUS,1982,117.693,6,Waste Energy Consumed by the Industrial Sector,Trillion Btu
+WSICBUS,1983,155.288,6,Waste Energy Consumed by the Industrial Sector,Trillion Btu
+WSICBUS,1984,203.568,6,Waste Energy Consumed by the Industrial Sector,Trillion Btu
+WSICBUS,1985,229.635,6,Waste Energy Consumed by the Industrial Sector,Trillion Btu
+WSICBUS,1986,255.703,6,Waste Energy Consumed by the Industrial Sector,Trillion Btu
+WSICBUS,1987,281.77,6,Waste Energy Consumed by the Industrial Sector,Trillion Btu
+WSICBUS,1988,307.706,6,Waste Energy Consumed by the Industrial Sector,Trillion Btu
+WSICBUS,1989,200.406,6,Waste Energy Consumed by the Industrial Sector,Trillion Btu
+WSICBUS,1990,192.323,6,Waste Energy Consumed by the Industrial Sector,Trillion Btu
+WSICBUS,1991,184.674,6,Waste Energy Consumed by the Industrial Sector,Trillion Btu
+WSICBUS,1992,178.514,6,Waste Energy Consumed by the Industrial Sector,Trillion Btu
+WSICBUS,1993,181.157,6,Waste Energy Consumed by the Industrial Sector,Trillion Btu
+WSICBUS,1994,199.247,6,Waste Energy Consumed by the Industrial Sector,Trillion Btu
+WSICBUS,1995,195.026,6,Waste Energy Consumed by the Industrial Sector,Trillion Btu
+WSICBUS,1996,223.549,6,Waste Energy Consumed by the Industrial Sector,Trillion Btu
+WSICBUS,1997,184.014,6,Waste Energy Consumed by the Industrial Sector,Trillion Btu
+WSICBUS,1998,180.344,6,Waste Energy Consumed by the Industrial Sector,Trillion Btu
+WSICBUS,1999,171.042,6,Waste Energy Consumed by the Industrial Sector,Trillion Btu
+WSICBUS,2000,145.111,6,Waste Energy Consumed by the Industrial Sector,Trillion Btu
+WSICBUS,2001,128.595,6,Waste Energy Consumed by the Industrial Sector,Trillion Btu
+WSICBUS,2002,146.345,6,Waste Energy Consumed by the Industrial Sector,Trillion Btu
+WSICBUS,2003,142.439,6,Waste Energy Consumed by the Industrial Sector,Trillion Btu
+WSICBUS,2004,131.929,6,Waste Energy Consumed by the Industrial Sector,Trillion Btu
+WSICBUS,2005,148.248,6,Waste Energy Consumed by the Industrial Sector,Trillion Btu
+WSICBUS,2006,129.584,6,Waste Energy Consumed by the Industrial Sector,Trillion Btu
+WSICBUS,2007,144.783,6,Waste Energy Consumed by the Industrial Sector,Trillion Btu
+WSICBUS,2008,143.123,6,Waste Energy Consumed by the Industrial Sector,Trillion Btu
+WSICBUS,2009,154.366,6,Waste Energy Consumed by the Industrial Sector,Trillion Btu
+WSICBUS,2010,168.178,6,Waste Energy Consumed by the Industrial Sector,Trillion Btu
+WSICBUS,2011,164.682,6,Waste Energy Consumed by the Industrial Sector,Trillion Btu
+WSICBUS,2012,158.904,6,Waste Energy Consumed by the Industrial Sector,Trillion Btu
+WSICBUS,2013,187.174,6,Waste Energy Consumed by the Industrial Sector,Trillion Btu
+WSICBUS,2014,190.025,6,Waste Energy Consumed by the Industrial Sector,Trillion Btu
+WSICBUS,2015,190.32,6,Waste Energy Consumed by the Industrial Sector,Trillion Btu
+WSICBUS,2016,174.425,6,Waste Energy Consumed by the Industrial Sector,Trillion Btu
+WSICBUS,2017,167.536,6,Waste Energy Consumed by the Industrial Sector,Trillion Btu
+WSICBUS,2018,165.402,6,Waste Energy Consumed by the Industrial Sector,Trillion Btu
+WSICBUS,2019,155.793,6,Waste Energy Consumed by the Industrial Sector,Trillion Btu
+EMICBUS,1949,Not Available,7,"Fuel Ethanol, Excluding Denaturant, Consumed by the Industrial Sector",Trillion Btu
+EMICBUS,1950,Not Available,7,"Fuel Ethanol, Excluding Denaturant, Consumed by the Industrial Sector",Trillion Btu
+EMICBUS,1951,Not Available,7,"Fuel Ethanol, Excluding Denaturant, Consumed by the Industrial Sector",Trillion Btu
+EMICBUS,1952,Not Available,7,"Fuel Ethanol, Excluding Denaturant, Consumed by the Industrial Sector",Trillion Btu
+EMICBUS,1953,Not Available,7,"Fuel Ethanol, Excluding Denaturant, Consumed by the Industrial Sector",Trillion Btu
+EMICBUS,1954,Not Available,7,"Fuel Ethanol, Excluding Denaturant, Consumed by the Industrial Sector",Trillion Btu
+EMICBUS,1955,Not Available,7,"Fuel Ethanol, Excluding Denaturant, Consumed by the Industrial Sector",Trillion Btu
+EMICBUS,1956,Not Available,7,"Fuel Ethanol, Excluding Denaturant, Consumed by the Industrial Sector",Trillion Btu
+EMICBUS,1957,Not Available,7,"Fuel Ethanol, Excluding Denaturant, Consumed by the Industrial Sector",Trillion Btu
+EMICBUS,1958,Not Available,7,"Fuel Ethanol, Excluding Denaturant, Consumed by the Industrial Sector",Trillion Btu
+EMICBUS,1959,Not Available,7,"Fuel Ethanol, Excluding Denaturant, Consumed by the Industrial Sector",Trillion Btu
+EMICBUS,1960,Not Available,7,"Fuel Ethanol, Excluding Denaturant, Consumed by the Industrial Sector",Trillion Btu
+EMICBUS,1961,Not Available,7,"Fuel Ethanol, Excluding Denaturant, Consumed by the Industrial Sector",Trillion Btu
+EMICBUS,1962,Not Available,7,"Fuel Ethanol, Excluding Denaturant, Consumed by the Industrial Sector",Trillion Btu
+EMICBUS,1963,Not Available,7,"Fuel Ethanol, Excluding Denaturant, Consumed by the Industrial Sector",Trillion Btu
+EMICBUS,1964,Not Available,7,"Fuel Ethanol, Excluding Denaturant, Consumed by the Industrial Sector",Trillion Btu
+EMICBUS,1965,Not Available,7,"Fuel Ethanol, Excluding Denaturant, Consumed by the Industrial Sector",Trillion Btu
+EMICBUS,1966,Not Available,7,"Fuel Ethanol, Excluding Denaturant, Consumed by the Industrial Sector",Trillion Btu
+EMICBUS,1967,Not Available,7,"Fuel Ethanol, Excluding Denaturant, Consumed by the Industrial Sector",Trillion Btu
+EMICBUS,1968,Not Available,7,"Fuel Ethanol, Excluding Denaturant, Consumed by the Industrial Sector",Trillion Btu
+EMICBUS,1969,Not Available,7,"Fuel Ethanol, Excluding Denaturant, Consumed by the Industrial Sector",Trillion Btu
+EMICBUS,1970,Not Available,7,"Fuel Ethanol, Excluding Denaturant, Consumed by the Industrial Sector",Trillion Btu
+EMICBUS,1971,Not Available,7,"Fuel Ethanol, Excluding Denaturant, Consumed by the Industrial Sector",Trillion Btu
+EMICBUS,1972,Not Available,7,"Fuel Ethanol, Excluding Denaturant, Consumed by the Industrial Sector",Trillion Btu
+EMICBUS,1973,Not Available,7,"Fuel Ethanol, Excluding Denaturant, Consumed by the Industrial Sector",Trillion Btu
+EMICBUS,1974,Not Available,7,"Fuel Ethanol, Excluding Denaturant, Consumed by the Industrial Sector",Trillion Btu
+EMICBUS,1975,Not Available,7,"Fuel Ethanol, Excluding Denaturant, Consumed by the Industrial Sector",Trillion Btu
+EMICBUS,1976,Not Available,7,"Fuel Ethanol, Excluding Denaturant, Consumed by the Industrial Sector",Trillion Btu
+EMICBUS,1977,Not Available,7,"Fuel Ethanol, Excluding Denaturant, Consumed by the Industrial Sector",Trillion Btu
+EMICBUS,1978,Not Available,7,"Fuel Ethanol, Excluding Denaturant, Consumed by the Industrial Sector",Trillion Btu
+EMICBUS,1979,Not Available,7,"Fuel Ethanol, Excluding Denaturant, Consumed by the Industrial Sector",Trillion Btu
+EMICBUS,1980,Not Available,7,"Fuel Ethanol, Excluding Denaturant, Consumed by the Industrial Sector",Trillion Btu
+EMICBUS,1981,0.087,7,"Fuel Ethanol, Excluding Denaturant, Consumed by the Industrial Sector",Trillion Btu
+EMICBUS,1982,0.205,7,"Fuel Ethanol, Excluding Denaturant, Consumed by the Industrial Sector",Trillion Btu
+EMICBUS,1983,0.303,7,"Fuel Ethanol, Excluding Denaturant, Consumed by the Industrial Sector",Trillion Btu
+EMICBUS,1984,0.524,7,"Fuel Ethanol, Excluding Denaturant, Consumed by the Industrial Sector",Trillion Btu
+EMICBUS,1985,0.848,7,"Fuel Ethanol, Excluding Denaturant, Consumed by the Industrial Sector",Trillion Btu
+EMICBUS,1986,0.899,7,"Fuel Ethanol, Excluding Denaturant, Consumed by the Industrial Sector",Trillion Btu
+EMICBUS,1987,1.007,7,"Fuel Ethanol, Excluding Denaturant, Consumed by the Industrial Sector",Trillion Btu
+EMICBUS,1988,0.939,7,"Fuel Ethanol, Excluding Denaturant, Consumed by the Industrial Sector",Trillion Btu
+EMICBUS,1989,0.984,7,"Fuel Ethanol, Excluding Denaturant, Consumed by the Industrial Sector",Trillion Btu
+EMICBUS,1990,0.824,7,"Fuel Ethanol, Excluding Denaturant, Consumed by the Industrial Sector",Trillion Btu
+EMICBUS,1991,1.004,7,"Fuel Ethanol, Excluding Denaturant, Consumed by the Industrial Sector",Trillion Btu
+EMICBUS,1992,1.131,7,"Fuel Ethanol, Excluding Denaturant, Consumed by the Industrial Sector",Trillion Btu
+EMICBUS,1993,1.19,7,"Fuel Ethanol, Excluding Denaturant, Consumed by the Industrial Sector",Trillion Btu
+EMICBUS,1994,1.412,7,"Fuel Ethanol, Excluding Denaturant, Consumed by the Industrial Sector",Trillion Btu
+EMICBUS,1995,1.541,7,"Fuel Ethanol, Excluding Denaturant, Consumed by the Industrial Sector",Trillion Btu
+EMICBUS,1996,1.087,7,"Fuel Ethanol, Excluding Denaturant, Consumed by the Industrial Sector",Trillion Btu
+EMICBUS,1997,1.44,7,"Fuel Ethanol, Excluding Denaturant, Consumed by the Industrial Sector",Trillion Btu
+EMICBUS,1998,1.456,7,"Fuel Ethanol, Excluding Denaturant, Consumed by the Industrial Sector",Trillion Btu
+EMICBUS,1999,1.127,7,"Fuel Ethanol, Excluding Denaturant, Consumed by the Industrial Sector",Trillion Btu
+EMICBUS,2000,1.27,7,"Fuel Ethanol, Excluding Denaturant, Consumed by the Industrial Sector",Trillion Btu
+EMICBUS,2001,2.59,7,"Fuel Ethanol, Excluding Denaturant, Consumed by the Industrial Sector",Trillion Btu
+EMICBUS,2002,3.145,7,"Fuel Ethanol, Excluding Denaturant, Consumed by the Industrial Sector",Trillion Btu
+EMICBUS,2003,4.453,7,"Fuel Ethanol, Excluding Denaturant, Consumed by the Industrial Sector",Trillion Btu
+EMICBUS,2004,6.283,7,"Fuel Ethanol, Excluding Denaturant, Consumed by the Industrial Sector",Trillion Btu
+EMICBUS,2005,6.843,7,"Fuel Ethanol, Excluding Denaturant, Consumed by the Industrial Sector",Trillion Btu
+EMICBUS,2006,9.668,7,"Fuel Ethanol, Excluding Denaturant, Consumed by the Industrial Sector",Trillion Btu
+EMICBUS,2007,9.84,7,"Fuel Ethanol, Excluding Denaturant, Consumed by the Industrial Sector",Trillion Btu
+EMICBUS,2008,11.645,7,"Fuel Ethanol, Excluding Denaturant, Consumed by the Industrial Sector",Trillion Btu
+EMICBUS,2009,12.932,7,"Fuel Ethanol, Excluding Denaturant, Consumed by the Industrial Sector",Trillion Btu
+EMICBUS,2010,16.56,7,"Fuel Ethanol, Excluding Denaturant, Consumed by the Industrial Sector",Trillion Btu
+EMICBUS,2011,16.737,7,"Fuel Ethanol, Excluding Denaturant, Consumed by the Industrial Sector",Trillion Btu
+EMICBUS,2012,16.688,7,"Fuel Ethanol, Excluding Denaturant, Consumed by the Industrial Sector",Trillion Btu
+EMICBUS,2013,17.553,7,"Fuel Ethanol, Excluding Denaturant, Consumed by the Industrial Sector",Trillion Btu
+EMICBUS,2014,14.168,7,"Fuel Ethanol, Excluding Denaturant, Consumed by the Industrial Sector",Trillion Btu
+EMICBUS,2015,17.551,7,"Fuel Ethanol, Excluding Denaturant, Consumed by the Industrial Sector",Trillion Btu
+EMICBUS,2016,18.039,7,"Fuel Ethanol, Excluding Denaturant, Consumed by the Industrial Sector",Trillion Btu
+EMICBUS,2017,18.425,7,"Fuel Ethanol, Excluding Denaturant, Consumed by the Industrial Sector",Trillion Btu
+EMICBUS,2018,18.734,7,"Fuel Ethanol, Excluding Denaturant, Consumed by the Industrial Sector",Trillion Btu
+EMICBUS,2019,18.885,7,"Fuel Ethanol, Excluding Denaturant, Consumed by the Industrial Sector",Trillion Btu
+BFLCBUS,1949,Not Available,8,Biomass Losses and Co-products in the Industrial Sector,Trillion Btu
+BFLCBUS,1950,Not Available,8,Biomass Losses and Co-products in the Industrial Sector,Trillion Btu
+BFLCBUS,1951,Not Available,8,Biomass Losses and Co-products in the Industrial Sector,Trillion Btu
+BFLCBUS,1952,Not Available,8,Biomass Losses and Co-products in the Industrial Sector,Trillion Btu
+BFLCBUS,1953,Not Available,8,Biomass Losses and Co-products in the Industrial Sector,Trillion Btu
+BFLCBUS,1954,Not Available,8,Biomass Losses and Co-products in the Industrial Sector,Trillion Btu
+BFLCBUS,1955,Not Available,8,Biomass Losses and Co-products in the Industrial Sector,Trillion Btu
+BFLCBUS,1956,Not Available,8,Biomass Losses and Co-products in the Industrial Sector,Trillion Btu
+BFLCBUS,1957,Not Available,8,Biomass Losses and Co-products in the Industrial Sector,Trillion Btu
+BFLCBUS,1958,Not Available,8,Biomass Losses and Co-products in the Industrial Sector,Trillion Btu
+BFLCBUS,1959,Not Available,8,Biomass Losses and Co-products in the Industrial Sector,Trillion Btu
+BFLCBUS,1960,Not Available,8,Biomass Losses and Co-products in the Industrial Sector,Trillion Btu
+BFLCBUS,1961,Not Available,8,Biomass Losses and Co-products in the Industrial Sector,Trillion Btu
+BFLCBUS,1962,Not Available,8,Biomass Losses and Co-products in the Industrial Sector,Trillion Btu
+BFLCBUS,1963,Not Available,8,Biomass Losses and Co-products in the Industrial Sector,Trillion Btu
+BFLCBUS,1964,Not Available,8,Biomass Losses and Co-products in the Industrial Sector,Trillion Btu
+BFLCBUS,1965,Not Available,8,Biomass Losses and Co-products in the Industrial Sector,Trillion Btu
+BFLCBUS,1966,Not Available,8,Biomass Losses and Co-products in the Industrial Sector,Trillion Btu
+BFLCBUS,1967,Not Available,8,Biomass Losses and Co-products in the Industrial Sector,Trillion Btu
+BFLCBUS,1968,Not Available,8,Biomass Losses and Co-products in the Industrial Sector,Trillion Btu
+BFLCBUS,1969,Not Available,8,Biomass Losses and Co-products in the Industrial Sector,Trillion Btu
+BFLCBUS,1970,Not Available,8,Biomass Losses and Co-products in the Industrial Sector,Trillion Btu
+BFLCBUS,1971,Not Available,8,Biomass Losses and Co-products in the Industrial Sector,Trillion Btu
+BFLCBUS,1972,Not Available,8,Biomass Losses and Co-products in the Industrial Sector,Trillion Btu
+BFLCBUS,1973,Not Available,8,Biomass Losses and Co-products in the Industrial Sector,Trillion Btu
+BFLCBUS,1974,Not Available,8,Biomass Losses and Co-products in the Industrial Sector,Trillion Btu
+BFLCBUS,1975,Not Available,8,Biomass Losses and Co-products in the Industrial Sector,Trillion Btu
+BFLCBUS,1976,Not Available,8,Biomass Losses and Co-products in the Industrial Sector,Trillion Btu
+BFLCBUS,1977,Not Available,8,Biomass Losses and Co-products in the Industrial Sector,Trillion Btu
+BFLCBUS,1978,Not Available,8,Biomass Losses and Co-products in the Industrial Sector,Trillion Btu
+BFLCBUS,1979,Not Available,8,Biomass Losses and Co-products in the Industrial Sector,Trillion Btu
+BFLCBUS,1980,Not Available,8,Biomass Losses and Co-products in the Industrial Sector,Trillion Btu
+BFLCBUS,1981,5.86,8,Biomass Losses and Co-products in the Industrial Sector,Trillion Btu
+BFLCBUS,1982,15.784,8,Biomass Losses and Co-products in the Industrial Sector,Trillion Btu
+BFLCBUS,1983,28.843,8,Biomass Losses and Co-products in the Industrial Sector,Trillion Btu
+BFLCBUS,1984,35.162,8,Biomass Losses and Co-products in the Industrial Sector,Trillion Btu
+BFLCBUS,1985,42.191,8,Biomass Losses and Co-products in the Industrial Sector,Trillion Btu
+BFLCBUS,1986,48.299,8,Biomass Losses and Co-products in the Industrial Sector,Trillion Btu
+BFLCBUS,1987,55.105,8,Biomass Losses and Co-products in the Industrial Sector,Trillion Btu
+BFLCBUS,1988,55.458,8,Biomass Losses and Co-products in the Industrial Sector,Trillion Btu
+BFLCBUS,1989,55.798,8,Biomass Losses and Co-products in the Industrial Sector,Trillion Btu
+BFLCBUS,1990,49.127,8,Biomass Losses and Co-products in the Industrial Sector,Trillion Btu
+BFLCBUS,1991,56.46,8,Biomass Losses and Co-products in the Industrial Sector,Trillion Btu
+BFLCBUS,1992,63.665,8,Biomass Losses and Co-products in the Industrial Sector,Trillion Btu
+BFLCBUS,1993,74.016,8,Biomass Losses and Co-products in the Industrial Sector,Trillion Btu
+BFLCBUS,1994,81.955,8,Biomass Losses and Co-products in the Industrial Sector,Trillion Btu
+BFLCBUS,1995,85.627,8,Biomass Losses and Co-products in the Industrial Sector,Trillion Btu
+BFLCBUS,1996,60.897,8,Biomass Losses and Co-products in the Industrial Sector,Trillion Btu
+BFLCBUS,1997,79.931,8,Biomass Losses and Co-products in the Industrial Sector,Trillion Btu
+BFLCBUS,1998,86.451,8,Biomass Losses and Co-products in the Industrial Sector,Trillion Btu
+BFLCBUS,1999,89.834,8,Biomass Losses and Co-products in the Industrial Sector,Trillion Btu
+BFLCBUS,2000,99.179,8,Biomass Losses and Co-products in the Industrial Sector,Trillion Btu
+BFLCBUS,2001,107.597,8,Biomass Losses and Co-products in the Industrial Sector,Trillion Btu
+BFLCBUS,2002,130.054,8,Biomass Losses and Co-products in the Industrial Sector,Trillion Btu
+BFLCBUS,2003,168.001,8,Biomass Losses and Co-products in the Industrial Sector,Trillion Btu
+BFLCBUS,2004,201.025,8,Biomass Losses and Co-products in the Industrial Sector,Trillion Btu
+BFLCBUS,2005,227.277,8,Biomass Losses and Co-products in the Industrial Sector,Trillion Btu
+BFLCBUS,2006,280.347,8,Biomass Losses and Co-products in the Industrial Sector,Trillion Btu
+BFLCBUS,2007,369.085,8,Biomass Losses and Co-products in the Industrial Sector,Trillion Btu
+BFLCBUS,2008,518.793,8,Biomass Losses and Co-products in the Industrial Sector,Trillion Btu
+BFLCBUS,2009,602.595,8,Biomass Losses and Co-products in the Industrial Sector,Trillion Btu
+BFLCBUS,2010,726.575,8,Biomass Losses and Co-products in the Industrial Sector,Trillion Btu
+BFLCBUS,2011,755.698,8,Biomass Losses and Co-products in the Industrial Sector,Trillion Btu
+BFLCBUS,2012,710.872,8,Biomass Losses and Co-products in the Industrial Sector,Trillion Btu
+BFLCBUS,2013,709.286,8,Biomass Losses and Co-products in the Industrial Sector,Trillion Btu
+BFLCBUS,2014,757.114,8,Biomass Losses and Co-products in the Industrial Sector,Trillion Btu
+BFLCBUS,2015,776.042,8,Biomass Losses and Co-products in the Industrial Sector,Trillion Btu
+BFLCBUS,2016,800.657,8,Biomass Losses and Co-products in the Industrial Sector,Trillion Btu
+BFLCBUS,2017,821.432,8,Biomass Losses and Co-products in the Industrial Sector,Trillion Btu
+BFLCBUS,2018,824.295,8,Biomass Losses and Co-products in the Industrial Sector,Trillion Btu
+BFLCBUS,2019,799.503,8,Biomass Losses and Co-products in the Industrial Sector,Trillion Btu
+BMICBUS,1949,468.287,9,Biomass Energy Consumed by the Industrial Sector,Trillion Btu
+BMICBUS,1950,532.237,9,Biomass Energy Consumed by the Industrial Sector,Trillion Btu
+BMICBUS,1951,552.928,9,Biomass Energy Consumed by the Industrial Sector,Trillion Btu
+BMICBUS,1952,551.656,9,Biomass Energy Consumed by the Industrial Sector,Trillion Btu
+BMICBUS,1953,565.897,9,Biomass Energy Consumed by the Industrial Sector,Trillion Btu
+BMICBUS,1954,576.2,9,Biomass Energy Consumed by the Industrial Sector,Trillion Btu
+BMICBUS,1955,631.137,9,Biomass Energy Consumed by the Industrial Sector,Trillion Btu
+BMICBUS,1956,661.409,9,Biomass Energy Consumed by the Industrial Sector,Trillion Btu
+BMICBUS,1957,616.431,9,Biomass Energy Consumed by the Industrial Sector,Trillion Btu
+BMICBUS,1958,619.647,9,Biomass Energy Consumed by the Industrial Sector,Trillion Btu
+BMICBUS,1959,691.973,9,Biomass Energy Consumed by the Industrial Sector,Trillion Btu
+BMICBUS,1960,679.864,9,Biomass Energy Consumed by the Industrial Sector,Trillion Btu
+BMICBUS,1961,695.413,9,Biomass Energy Consumed by the Industrial Sector,Trillion Btu
+BMICBUS,1962,728.179,9,Biomass Energy Consumed by the Industrial Sector,Trillion Btu
+BMICBUS,1963,774.843,9,Biomass Energy Consumed by the Industrial Sector,Trillion Btu
+BMICBUS,1964,826.735,9,Biomass Energy Consumed by the Industrial Sector,Trillion Btu
+BMICBUS,1965,854.943,9,Biomass Energy Consumed by the Industrial Sector,Trillion Btu
+BMICBUS,1966,901.916,9,Biomass Energy Consumed by the Industrial Sector,Trillion Btu
+BMICBUS,1967,894.658,9,Biomass Energy Consumed by the Industrial Sector,Trillion Btu
+BMICBUS,1968,981.948,9,Biomass Energy Consumed by the Industrial Sector,Trillion Btu
+BMICBUS,1969,1014.232,9,Biomass Energy Consumed by the Industrial Sector,Trillion Btu
+BMICBUS,1970,1018.911,9,Biomass Energy Consumed by the Industrial Sector,Trillion Btu
+BMICBUS,1971,1039.998,9,Biomass Energy Consumed by the Industrial Sector,Trillion Btu
+BMICBUS,1972,1112.668,9,Biomass Energy Consumed by the Industrial Sector,Trillion Btu
+BMICBUS,1973,1164.853,9,Biomass Energy Consumed by the Industrial Sector,Trillion Btu
+BMICBUS,1974,1159.074,9,Biomass Energy Consumed by the Industrial Sector,Trillion Btu
+BMICBUS,1975,1063.27,9,Biomass Energy Consumed by the Industrial Sector,Trillion Btu
+BMICBUS,1976,1219.876,9,Biomass Energy Consumed by the Industrial Sector,Trillion Btu
+BMICBUS,1977,1281.245,9,Biomass Energy Consumed by the Industrial Sector,Trillion Btu
+BMICBUS,1978,1400.424,9,Biomass Energy Consumed by the Industrial Sector,Trillion Btu
+BMICBUS,1979,1404.862,9,Biomass Energy Consumed by the Industrial Sector,Trillion Btu
+BMICBUS,1980,1600,9,Biomass Energy Consumed by the Industrial Sector,Trillion Btu
+BMICBUS,1981,1694.665,9,Biomass Energy Consumed by the Industrial Sector,Trillion Btu
+BMICBUS,1982,1649.682,9,Biomass Energy Consumed by the Industrial Sector,Trillion Btu
+BMICBUS,1983,1874.435,9,Biomass Energy Consumed by the Industrial Sector,Trillion Btu
+BMICBUS,1984,1918.254,9,Biomass Energy Consumed by the Industrial Sector,Trillion Btu
+BMICBUS,1985,1917.674,9,Biomass Energy Consumed by the Industrial Sector,Trillion Btu
+BMICBUS,1986,1914.901,9,Biomass Energy Consumed by the Industrial Sector,Trillion Btu
+BMICBUS,1987,1913.881,9,Biomass Energy Consumed by the Industrial Sector,Trillion Btu
+BMICBUS,1988,1989.102,9,Biomass Energy Consumed by the Industrial Sector,Trillion Btu
+BMICBUS,1989,1840.751,9,Biomass Energy Consumed by the Industrial Sector,Trillion Btu
+BMICBUS,1990,1684.186,9,Biomass Energy Consumed by the Industrial Sector,Trillion Btu
+BMICBUS,1991,1651.984,9,Biomass Energy Consumed by the Industrial Sector,Trillion Btu
+BMICBUS,1992,1704.533,9,Biomass Energy Consumed by the Industrial Sector,Trillion Btu
+BMICBUS,1993,1740.708,9,Biomass Energy Consumed by the Industrial Sector,Trillion Btu
+BMICBUS,1994,1862.384,9,Biomass Energy Consumed by the Industrial Sector,Trillion Btu
+BMICBUS,1995,1934.272,9,Biomass Energy Consumed by the Industrial Sector,Trillion Btu
+BMICBUS,1996,1969.032,9,Biomass Energy Consumed by the Industrial Sector,Trillion Btu
+BMICBUS,1997,1995.998,9,Biomass Energy Consumed by the Industrial Sector,Trillion Btu
+BMICBUS,1998,1871.691,9,Biomass Energy Consumed by the Industrial Sector,Trillion Btu
+BMICBUS,1999,1881.523,9,Biomass Energy Consumed by the Industrial Sector,Trillion Btu
+BMICBUS,2000,1881.484,9,Biomass Energy Consumed by the Industrial Sector,Trillion Btu
+BMICBUS,2001,1681.425,9,Biomass Energy Consumed by the Industrial Sector,Trillion Btu
+BMICBUS,2002,1675.978,9,Biomass Energy Consumed by the Industrial Sector,Trillion Btu
+BMICBUS,2003,1678.208,9,Biomass Energy Consumed by the Industrial Sector,Trillion Btu
+BMICBUS,2004,1814.972,9,Biomass Energy Consumed by the Industrial Sector,Trillion Btu
+BMICBUS,2005,1834.097,9,Biomass Energy Consumed by the Industrial Sector,Trillion Btu
+BMICBUS,2006,1891.997,9,Biomass Energy Consumed by the Industrial Sector,Trillion Btu
+BMICBUS,2007,1936.731,9,Biomass Energy Consumed by the Industrial Sector,Trillion Btu
+BMICBUS,2008,2012.295,9,Biomass Energy Consumed by the Industrial Sector,Trillion Btu
+BMICBUS,2009,1948.263,9,Biomass Energy Consumed by the Industrial Sector,Trillion Btu
+BMICBUS,2010,2320.313,9,Biomass Energy Consumed by the Industrial Sector,Trillion Btu
+BMICBUS,2011,2374.755,9,Biomass Energy Consumed by the Industrial Sector,Trillion Btu
+BMICBUS,2012,2348.709,9,Biomass Energy Consumed by the Industrial Sector,Trillion Btu
+BMICBUS,2013,2403.024,9,Biomass Energy Consumed by the Industrial Sector,Trillion Btu
+BMICBUS,2014,2456.307,9,Biomass Energy Consumed by the Industrial Sector,Trillion Btu
+BMICBUS,2015,2459.801,9,Biomass Energy Consumed by the Industrial Sector,Trillion Btu
+BMICBUS,2016,2466.898,9,Biomass Energy Consumed by the Industrial Sector,Trillion Btu
+BMICBUS,2017,2449.718,9,Biomass Energy Consumed by the Industrial Sector,Trillion Btu
+BMICBUS,2018,2446.461,9,Biomass Energy Consumed by the Industrial Sector,Trillion Btu
+BMICBUS,2019,2387.195,9,Biomass Energy Consumed by the Industrial Sector,Trillion Btu
+REICBUS,1949,543.824,10,Total Renewable Energy Consumed by the Industrial Sector,Trillion Btu
+REICBUS,1950,601.633,10,Total Renewable Energy Consumed by the Industrial Sector,Trillion Btu
+REICBUS,1951,616.025,10,Total Renewable Energy Consumed by the Industrial Sector,Trillion Btu
+REICBUS,1952,613.194,10,Total Renewable Energy Consumed by the Industrial Sector,Trillion Btu
+REICBUS,1953,622.403,10,Total Renewable Energy Consumed by the Industrial Sector,Trillion Btu
+REICBUS,1954,631.878,10,Total Renewable Energy Consumed by the Industrial Sector,Trillion Btu
+REICBUS,1955,669.286,10,Total Renewable Energy Consumed by the Industrial Sector,Trillion Btu
+REICBUS,1956,698.16,10,Total Renewable Energy Consumed by the Industrial Sector,Trillion Btu
+REICBUS,1957,651.952,10,Total Renewable Energy Consumed by the Industrial Sector,Trillion Btu
+REICBUS,1958,656.809,10,Total Renewable Energy Consumed by the Industrial Sector,Trillion Btu
+REICBUS,1959,728.976,10,Total Renewable Energy Consumed by the Industrial Sector,Trillion Btu
+REICBUS,1960,718.672,10,Total Renewable Energy Consumed by the Industrial Sector,Trillion Btu
+REICBUS,1961,731.249,10,Total Renewable Energy Consumed by the Industrial Sector,Trillion Btu
+REICBUS,1962,764.169,10,Total Renewable Energy Consumed by the Industrial Sector,Trillion Btu
+REICBUS,1963,808.757,10,Total Renewable Energy Consumed by the Industrial Sector,Trillion Btu
+REICBUS,1964,860.507,10,Total Renewable Energy Consumed by the Industrial Sector,Trillion Btu
+REICBUS,1965,887.7,10,Total Renewable Energy Consumed by the Industrial Sector,Trillion Btu
+REICBUS,1966,935.054,10,Total Renewable Energy Consumed by the Industrial Sector,Trillion Btu
+REICBUS,1967,930.445,10,Total Renewable Energy Consumed by the Industrial Sector,Trillion Btu
+REICBUS,1968,1017.12,10,Total Renewable Energy Consumed by the Industrial Sector,Trillion Btu
+REICBUS,1969,1048.452,10,Total Renewable Energy Consumed by the Industrial Sector,Trillion Btu
+REICBUS,1970,1052.951,10,Total Renewable Energy Consumed by the Industrial Sector,Trillion Btu
+REICBUS,1971,1073.744,10,Total Renewable Energy Consumed by the Industrial Sector,Trillion Btu
+REICBUS,1972,1147.088,10,Total Renewable Energy Consumed by the Industrial Sector,Trillion Btu
+REICBUS,1973,1199.626,10,Total Renewable Energy Consumed by the Industrial Sector,Trillion Btu
+REICBUS,1974,1192.276,10,Total Renewable Energy Consumed by the Industrial Sector,Trillion Btu
+REICBUS,1975,1095.591,10,Total Renewable Energy Consumed by the Industrial Sector,Trillion Btu
+REICBUS,1976,1253.248,10,Total Renewable Energy Consumed by the Industrial Sector,Trillion Btu
+REICBUS,1977,1313.846,10,Total Renewable Energy Consumed by the Industrial Sector,Trillion Btu
+REICBUS,1978,1431.987,10,Total Renewable Energy Consumed by the Industrial Sector,Trillion Btu
+REICBUS,1979,1438.956,10,Total Renewable Energy Consumed by the Industrial Sector,Trillion Btu
+REICBUS,1980,1632.838,10,Total Renewable Energy Consumed by the Industrial Sector,Trillion Btu
+REICBUS,1981,1727.708,10,Total Renewable Energy Consumed by the Industrial Sector,Trillion Btu
+REICBUS,1982,1682.729,10,Total Renewable Energy Consumed by the Industrial Sector,Trillion Btu
+REICBUS,1983,1907.69,10,Total Renewable Energy Consumed by the Industrial Sector,Trillion Btu
+REICBUS,1984,1951.256,10,Total Renewable Energy Consumed by the Industrial Sector,Trillion Btu
+REICBUS,1985,1950.698,10,Total Renewable Energy Consumed by the Industrial Sector,Trillion Btu
+REICBUS,1986,1947.923,10,Total Renewable Energy Consumed by the Industrial Sector,Trillion Btu
+REICBUS,1987,1946.817,10,Total Renewable Energy Consumed by the Industrial Sector,Trillion Btu
+REICBUS,1988,2021.738,10,Total Renewable Energy Consumed by the Industrial Sector,Trillion Btu
+REICBUS,1989,1870.983,10,Total Renewable Energy Consumed by the Industrial Sector,Trillion Btu
+REICBUS,1990,1717.074,10,Total Renewable Energy Consumed by the Industrial Sector,Trillion Btu
+REICBUS,1991,1683.805,10,Total Renewable Energy Consumed by the Industrial Sector,Trillion Btu
+REICBUS,1992,1737.291,10,Total Renewable Energy Consumed by the Industrial Sector,Trillion Btu
+REICBUS,1993,1772.755,10,Total Renewable Energy Consumed by the Industrial Sector,Trillion Btu
+REICBUS,1994,1927.431,10,Total Renewable Energy Consumed by the Industrial Sector,Trillion Btu
+REICBUS,1995,1992.037,10,Total Renewable Energy Consumed by the Industrial Sector,Trillion Btu
+REICBUS,1996,2032.786,10,Total Renewable Energy Consumed by the Industrial Sector,Trillion Btu
+REICBUS,1997,2057.249,10,Total Renewable Energy Consumed by the Industrial Sector,Trillion Btu
+REICBUS,1998,1929.33,10,Total Renewable Energy Consumed by the Industrial Sector,Trillion Btu
+REICBUS,1999,1934.398,10,Total Renewable Energy Consumed by the Industrial Sector,Trillion Btu
+REICBUS,2000,1928.199,10,Total Renewable Energy Consumed by the Industrial Sector,Trillion Btu
+REICBUS,2001,1718.847,10,Total Renewable Energy Consumed by the Industrial Sector,Trillion Btu
+REICBUS,2002,1719.862,10,Total Renewable Energy Consumed by the Industrial Sector,Trillion Btu
+REICBUS,2003,1724.579,10,Total Renewable Energy Consumed by the Industrial Sector,Trillion Btu
+REICBUS,2004,1851.578,10,Total Renewable Energy Consumed by the Industrial Sector,Trillion Btu
+REICBUS,2005,1870.751,10,Total Renewable Energy Consumed by the Industrial Sector,Trillion Btu
+REICBUS,2006,1925.736,10,Total Renewable Energy Consumed by the Industrial Sector,Trillion Btu
+REICBUS,2007,1957.968,10,Total Renewable Energy Consumed by the Industrial Sector,Trillion Btu
+REICBUS,2008,2035.124,10,Total Renewable Energy Consumed by the Industrial Sector,Trillion Btu
+REICBUS,2009,1972.448,10,Total Renewable Energy Consumed by the Industrial Sector,Trillion Btu
+REICBUS,2010,2343.473,10,Total Renewable Energy Consumed by the Industrial Sector,Trillion Btu
+REICBUS,2011,2400.89,10,Total Renewable Energy Consumed by the Industrial Sector,Trillion Btu
+REICBUS,2012,2382.68,10,Total Renewable Energy Consumed by the Industrial Sector,Trillion Btu
+REICBUS,2013,2449.286,10,Total Renewable Energy Consumed by the Industrial Sector,Trillion Btu
+REICBUS,2014,2484.193,10,Total Renewable Energy Consumed by the Industrial Sector,Trillion Btu
+REICBUS,2015,2491.355,10,Total Renewable Energy Consumed by the Industrial Sector,Trillion Btu
+REICBUS,2016,2502.737,10,Total Renewable Energy Consumed by the Industrial Sector,Trillion Btu
+REICBUS,2017,2489.599,10,Total Renewable Energy Consumed by the Industrial Sector,Trillion Btu
+REICBUS,2018,2486.434,10,Total Renewable Energy Consumed by the Industrial Sector,Trillion Btu
+REICBUS,2019,2429.323,10,Total Renewable Energy Consumed by the Industrial Sector,Trillion Btu
+EMACBUS,1949,Not Available,11,"Fuel Ethanol, Excluding Denaturant, Consumed by the Transportation Sector",Trillion Btu
+EMACBUS,1950,Not Available,11,"Fuel Ethanol, Excluding Denaturant, Consumed by the Transportation Sector",Trillion Btu
+EMACBUS,1951,Not Available,11,"Fuel Ethanol, Excluding Denaturant, Consumed by the Transportation Sector",Trillion Btu
+EMACBUS,1952,Not Available,11,"Fuel Ethanol, Excluding Denaturant, Consumed by the Transportation Sector",Trillion Btu
+EMACBUS,1953,Not Available,11,"Fuel Ethanol, Excluding Denaturant, Consumed by the Transportation Sector",Trillion Btu
+EMACBUS,1954,Not Available,11,"Fuel Ethanol, Excluding Denaturant, Consumed by the Transportation Sector",Trillion Btu
+EMACBUS,1955,Not Available,11,"Fuel Ethanol, Excluding Denaturant, Consumed by the Transportation Sector",Trillion Btu
+EMACBUS,1956,Not Available,11,"Fuel Ethanol, Excluding Denaturant, Consumed by the Transportation Sector",Trillion Btu
+EMACBUS,1957,Not Available,11,"Fuel Ethanol, Excluding Denaturant, Consumed by the Transportation Sector",Trillion Btu
+EMACBUS,1958,Not Available,11,"Fuel Ethanol, Excluding Denaturant, Consumed by the Transportation Sector",Trillion Btu
+EMACBUS,1959,Not Available,11,"Fuel Ethanol, Excluding Denaturant, Consumed by the Transportation Sector",Trillion Btu
+EMACBUS,1960,Not Available,11,"Fuel Ethanol, Excluding Denaturant, Consumed by the Transportation Sector",Trillion Btu
+EMACBUS,1961,Not Available,11,"Fuel Ethanol, Excluding Denaturant, Consumed by the Transportation Sector",Trillion Btu
+EMACBUS,1962,Not Available,11,"Fuel Ethanol, Excluding Denaturant, Consumed by the Transportation Sector",Trillion Btu
+EMACBUS,1963,Not Available,11,"Fuel Ethanol, Excluding Denaturant, Consumed by the Transportation Sector",Trillion Btu
+EMACBUS,1964,Not Available,11,"Fuel Ethanol, Excluding Denaturant, Consumed by the Transportation Sector",Trillion Btu
+EMACBUS,1965,Not Available,11,"Fuel Ethanol, Excluding Denaturant, Consumed by the Transportation Sector",Trillion Btu
+EMACBUS,1966,Not Available,11,"Fuel Ethanol, Excluding Denaturant, Consumed by the Transportation Sector",Trillion Btu
+EMACBUS,1967,Not Available,11,"Fuel Ethanol, Excluding Denaturant, Consumed by the Transportation Sector",Trillion Btu
+EMACBUS,1968,Not Available,11,"Fuel Ethanol, Excluding Denaturant, Consumed by the Transportation Sector",Trillion Btu
+EMACBUS,1969,Not Available,11,"Fuel Ethanol, Excluding Denaturant, Consumed by the Transportation Sector",Trillion Btu
+EMACBUS,1970,Not Available,11,"Fuel Ethanol, Excluding Denaturant, Consumed by the Transportation Sector",Trillion Btu
+EMACBUS,1971,Not Available,11,"Fuel Ethanol, Excluding Denaturant, Consumed by the Transportation Sector",Trillion Btu
+EMACBUS,1972,Not Available,11,"Fuel Ethanol, Excluding Denaturant, Consumed by the Transportation Sector",Trillion Btu
+EMACBUS,1973,Not Available,11,"Fuel Ethanol, Excluding Denaturant, Consumed by the Transportation Sector",Trillion Btu
+EMACBUS,1974,Not Available,11,"Fuel Ethanol, Excluding Denaturant, Consumed by the Transportation Sector",Trillion Btu
+EMACBUS,1975,Not Available,11,"Fuel Ethanol, Excluding Denaturant, Consumed by the Transportation Sector",Trillion Btu
+EMACBUS,1976,Not Available,11,"Fuel Ethanol, Excluding Denaturant, Consumed by the Transportation Sector",Trillion Btu
+EMACBUS,1977,Not Available,11,"Fuel Ethanol, Excluding Denaturant, Consumed by the Transportation Sector",Trillion Btu
+EMACBUS,1978,Not Available,11,"Fuel Ethanol, Excluding Denaturant, Consumed by the Transportation Sector",Trillion Btu
+EMACBUS,1979,Not Available,11,"Fuel Ethanol, Excluding Denaturant, Consumed by the Transportation Sector",Trillion Btu
+EMACBUS,1980,Not Available,11,"Fuel Ethanol, Excluding Denaturant, Consumed by the Transportation Sector",Trillion Btu
+EMACBUS,1981,6.723,11,"Fuel Ethanol, Excluding Denaturant, Consumed by the Transportation Sector",Trillion Btu
+EMACBUS,1982,18.285,11,"Fuel Ethanol, Excluding Denaturant, Consumed by the Transportation Sector",Trillion Btu
+EMACBUS,1983,33.72,11,"Fuel Ethanol, Excluding Denaturant, Consumed by the Transportation Sector",Trillion Btu
+EMACBUS,1984,41.265,11,"Fuel Ethanol, Excluding Denaturant, Consumed by the Transportation Sector",Trillion Btu
+EMACBUS,1985,49.738,11,"Fuel Ethanol, Excluding Denaturant, Consumed by the Transportation Sector",Trillion Btu
+EMACBUS,1986,57.437,11,"Fuel Ethanol, Excluding Denaturant, Consumed by the Transportation Sector",Trillion Btu
+EMACBUS,1987,66.071,11,"Fuel Ethanol, Excluding Denaturant, Consumed by the Transportation Sector",Trillion Btu
+EMACBUS,1988,67.125,11,"Fuel Ethanol, Excluding Denaturant, Consumed by the Transportation Sector",Trillion Btu
+EMACBUS,1989,68.091,11,"Fuel Ethanol, Excluding Denaturant, Consumed by the Transportation Sector",Trillion Btu
+EMACBUS,1990,60.421,11,"Fuel Ethanol, Excluding Denaturant, Consumed by the Transportation Sector",Trillion Btu
+EMACBUS,1991,70.095,11,"Fuel Ethanol, Excluding Denaturant, Consumed by the Transportation Sector",Trillion Btu
+EMACBUS,1992,79.746,11,"Fuel Ethanol, Excluding Denaturant, Consumed by the Transportation Sector",Trillion Btu
+EMACBUS,1993,93.66,11,"Fuel Ethanol, Excluding Denaturant, Consumed by the Transportation Sector",Trillion Btu
+EMACBUS,1994,104.84,11,"Fuel Ethanol, Excluding Denaturant, Consumed by the Transportation Sector",Trillion Btu
+EMACBUS,1995,112.49,11,"Fuel Ethanol, Excluding Denaturant, Consumed by the Transportation Sector",Trillion Btu
+EMACBUS,1996,80.661,11,"Fuel Ethanol, Excluding Denaturant, Consumed by the Transportation Sector",Trillion Btu
+EMACBUS,1997,101.966,11,"Fuel Ethanol, Excluding Denaturant, Consumed by the Transportation Sector",Trillion Btu
+EMACBUS,1998,112.843,11,"Fuel Ethanol, Excluding Denaturant, Consumed by the Transportation Sector",Trillion Btu
+EMACBUS,1999,117.795,11,"Fuel Ethanol, Excluding Denaturant, Consumed by the Transportation Sector",Trillion Btu
+EMACBUS,2000,134.887,11,"Fuel Ethanol, Excluding Denaturant, Consumed by the Transportation Sector",Trillion Btu
+EMACBUS,2001,140.822,11,"Fuel Ethanol, Excluding Denaturant, Consumed by the Transportation Sector",Trillion Btu
+EMACBUS,2002,167.587,11,"Fuel Ethanol, Excluding Denaturant, Consumed by the Transportation Sector",Trillion Btu
+EMACBUS,2003,228.086,11,"Fuel Ethanol, Excluding Denaturant, Consumed by the Transportation Sector",Trillion Btu
+EMACBUS,2004,286.29,11,"Fuel Ethanol, Excluding Denaturant, Consumed by the Transportation Sector",Trillion Btu
+EMACBUS,2005,327.426,11,"Fuel Ethanol, Excluding Denaturant, Consumed by the Transportation Sector",Trillion Btu
+EMACBUS,2006,441.702,11,"Fuel Ethanol, Excluding Denaturant, Consumed by the Transportation Sector",Trillion Btu
+EMACBUS,2007,556.791,11,"Fuel Ethanol, Excluding Denaturant, Consumed by the Transportation Sector",Trillion Btu
+EMACBUS,2008,785.844,11,"Fuel Ethanol, Excluding Denaturant, Consumed by the Transportation Sector",Trillion Btu
+EMACBUS,2009,893.9,11,"Fuel Ethanol, Excluding Denaturant, Consumed by the Transportation Sector",Trillion Btu
+EMACBUS,2010,1041.351,11,"Fuel Ethanol, Excluding Denaturant, Consumed by the Transportation Sector",Trillion Btu
+EMACBUS,2011,1044.999,11,"Fuel Ethanol, Excluding Denaturant, Consumed by the Transportation Sector",Trillion Btu
+EMACBUS,2012,1044.606,11,"Fuel Ethanol, Excluding Denaturant, Consumed by the Transportation Sector",Trillion Btu
+EMACBUS,2013,1071.607,11,"Fuel Ethanol, Excluding Denaturant, Consumed by the Transportation Sector",Trillion Btu
+EMACBUS,2014,1093.489,11,"Fuel Ethanol, Excluding Denaturant, Consumed by the Transportation Sector",Trillion Btu
+EMACBUS,2015,1109.915,11,"Fuel Ethanol, Excluding Denaturant, Consumed by the Transportation Sector",Trillion Btu
+EMACBUS,2016,1143.043,11,"Fuel Ethanol, Excluding Denaturant, Consumed by the Transportation Sector",Trillion Btu
+EMACBUS,2017,1155.55,11,"Fuel Ethanol, Excluding Denaturant, Consumed by the Transportation Sector",Trillion Btu
+EMACBUS,2018,1152.42,11,"Fuel Ethanol, Excluding Denaturant, Consumed by the Transportation Sector",Trillion Btu
+EMACBUS,2019,1161.71,11,"Fuel Ethanol, Excluding Denaturant, Consumed by the Transportation Sector",Trillion Btu
+BDACBUS,1949,Not Available,12,Biodiesel Consumed by the Transportation Sector,Trillion Btu
+BDACBUS,1950,Not Available,12,Biodiesel Consumed by the Transportation Sector,Trillion Btu
+BDACBUS,1951,Not Available,12,Biodiesel Consumed by the Transportation Sector,Trillion Btu
+BDACBUS,1952,Not Available,12,Biodiesel Consumed by the Transportation Sector,Trillion Btu
+BDACBUS,1953,Not Available,12,Biodiesel Consumed by the Transportation Sector,Trillion Btu
+BDACBUS,1954,Not Available,12,Biodiesel Consumed by the Transportation Sector,Trillion Btu
+BDACBUS,1955,Not Available,12,Biodiesel Consumed by the Transportation Sector,Trillion Btu
+BDACBUS,1956,Not Available,12,Biodiesel Consumed by the Transportation Sector,Trillion Btu
+BDACBUS,1957,Not Available,12,Biodiesel Consumed by the Transportation Sector,Trillion Btu
+BDACBUS,1958,Not Available,12,Biodiesel Consumed by the Transportation Sector,Trillion Btu
+BDACBUS,1959,Not Available,12,Biodiesel Consumed by the Transportation Sector,Trillion Btu
+BDACBUS,1960,Not Available,12,Biodiesel Consumed by the Transportation Sector,Trillion Btu
+BDACBUS,1961,Not Available,12,Biodiesel Consumed by the Transportation Sector,Trillion Btu
+BDACBUS,1962,Not Available,12,Biodiesel Consumed by the Transportation Sector,Trillion Btu
+BDACBUS,1963,Not Available,12,Biodiesel Consumed by the Transportation Sector,Trillion Btu
+BDACBUS,1964,Not Available,12,Biodiesel Consumed by the Transportation Sector,Trillion Btu
+BDACBUS,1965,Not Available,12,Biodiesel Consumed by the Transportation Sector,Trillion Btu
+BDACBUS,1966,Not Available,12,Biodiesel Consumed by the Transportation Sector,Trillion Btu
+BDACBUS,1967,Not Available,12,Biodiesel Consumed by the Transportation Sector,Trillion Btu
+BDACBUS,1968,Not Available,12,Biodiesel Consumed by the Transportation Sector,Trillion Btu
+BDACBUS,1969,Not Available,12,Biodiesel Consumed by the Transportation Sector,Trillion Btu
+BDACBUS,1970,Not Available,12,Biodiesel Consumed by the Transportation Sector,Trillion Btu
+BDACBUS,1971,Not Available,12,Biodiesel Consumed by the Transportation Sector,Trillion Btu
+BDACBUS,1972,Not Available,12,Biodiesel Consumed by the Transportation Sector,Trillion Btu
+BDACBUS,1973,Not Available,12,Biodiesel Consumed by the Transportation Sector,Trillion Btu
+BDACBUS,1974,Not Available,12,Biodiesel Consumed by the Transportation Sector,Trillion Btu
+BDACBUS,1975,Not Available,12,Biodiesel Consumed by the Transportation Sector,Trillion Btu
+BDACBUS,1976,Not Available,12,Biodiesel Consumed by the Transportation Sector,Trillion Btu
+BDACBUS,1977,Not Available,12,Biodiesel Consumed by the Transportation Sector,Trillion Btu
+BDACBUS,1978,Not Available,12,Biodiesel Consumed by the Transportation Sector,Trillion Btu
+BDACBUS,1979,Not Available,12,Biodiesel Consumed by the Transportation Sector,Trillion Btu
+BDACBUS,1980,Not Available,12,Biodiesel Consumed by the Transportation Sector,Trillion Btu
+BDACBUS,1981,Not Available,12,Biodiesel Consumed by the Transportation Sector,Trillion Btu
+BDACBUS,1982,Not Available,12,Biodiesel Consumed by the Transportation Sector,Trillion Btu
+BDACBUS,1983,Not Available,12,Biodiesel Consumed by the Transportation Sector,Trillion Btu
+BDACBUS,1984,Not Available,12,Biodiesel Consumed by the Transportation Sector,Trillion Btu
+BDACBUS,1985,Not Available,12,Biodiesel Consumed by the Transportation Sector,Trillion Btu
+BDACBUS,1986,Not Available,12,Biodiesel Consumed by the Transportation Sector,Trillion Btu
+BDACBUS,1987,Not Available,12,Biodiesel Consumed by the Transportation Sector,Trillion Btu
+BDACBUS,1988,Not Available,12,Biodiesel Consumed by the Transportation Sector,Trillion Btu
+BDACBUS,1989,Not Available,12,Biodiesel Consumed by the Transportation Sector,Trillion Btu
+BDACBUS,1990,Not Available,12,Biodiesel Consumed by the Transportation Sector,Trillion Btu
+BDACBUS,1991,Not Available,12,Biodiesel Consumed by the Transportation Sector,Trillion Btu
+BDACBUS,1992,Not Available,12,Biodiesel Consumed by the Transportation Sector,Trillion Btu
+BDACBUS,1993,Not Available,12,Biodiesel Consumed by the Transportation Sector,Trillion Btu
+BDACBUS,1994,Not Available,12,Biodiesel Consumed by the Transportation Sector,Trillion Btu
+BDACBUS,1995,Not Available,12,Biodiesel Consumed by the Transportation Sector,Trillion Btu
+BDACBUS,1996,Not Available,12,Biodiesel Consumed by the Transportation Sector,Trillion Btu
+BDACBUS,1997,Not Available,12,Biodiesel Consumed by the Transportation Sector,Trillion Btu
+BDACBUS,1998,Not Available,12,Biodiesel Consumed by the Transportation Sector,Trillion Btu
+BDACBUS,1999,Not Available,12,Biodiesel Consumed by the Transportation Sector,Trillion Btu
+BDACBUS,2000,Not Available,12,Biodiesel Consumed by the Transportation Sector,Trillion Btu
+BDACBUS,2001,1.31,12,Biodiesel Consumed by the Transportation Sector,Trillion Btu
+BDACBUS,2002,2.088,12,Biodiesel Consumed by the Transportation Sector,Trillion Btu
+BDACBUS,2003,1.724,12,Biodiesel Consumed by the Transportation Sector,Trillion Btu
+BDACBUS,2004,3.425,12,Biodiesel Consumed by the Transportation Sector,Trillion Btu
+BDACBUS,2005,11.589,12,Biodiesel Consumed by the Transportation Sector,Trillion Btu
+BDACBUS,2006,33.293,12,Biodiesel Consumed by the Transportation Sector,Trillion Btu
+BDACBUS,2007,45.131,12,Biodiesel Consumed by the Transportation Sector,Trillion Btu
+BDACBUS,2008,38.732,12,Biodiesel Consumed by the Transportation Sector,Trillion Btu
+BDACBUS,2009,41.064,12,Biodiesel Consumed by the Transportation Sector,Trillion Btu
+BDACBUS,2010,33.184,12,Biodiesel Consumed by the Transportation Sector,Trillion Btu
+BDACBUS,2011,113.071,12,Biodiesel Consumed by the Transportation Sector,Trillion Btu
+BDACBUS,2012,114.714,12,Biodiesel Consumed by the Transportation Sector,Trillion Btu
+BDACBUS,2013,182.313,12,Biodiesel Consumed by the Transportation Sector,Trillion Btu
+BDACBUS,2014,180.784,12,Biodiesel Consumed by the Transportation Sector,Trillion Btu
+BDACBUS,2015,190.648,12,Biodiesel Consumed by the Transportation Sector,Trillion Btu
+BDACBUS,2016,266.092,12,Biodiesel Consumed by the Transportation Sector,Trillion Btu
+BDACBUS,2017,253.312,12,Biodiesel Consumed by the Transportation Sector,Trillion Btu
+BDACBUS,2018,242.904,12,Biodiesel Consumed by the Transportation Sector,Trillion Btu
+BDACBUS,2019,231.31,12,Biodiesel Consumed by the Transportation Sector,Trillion Btu
+B3ACBUS,1949,Not Available,13,Other Renewable Fuels Consumption,Trillion Btu
+B3ACBUS,1950,Not Available,13,Other Renewable Fuels Consumption,Trillion Btu
+B3ACBUS,1951,Not Available,13,Other Renewable Fuels Consumption,Trillion Btu
+B3ACBUS,1952,Not Available,13,Other Renewable Fuels Consumption,Trillion Btu
+B3ACBUS,1953,Not Available,13,Other Renewable Fuels Consumption,Trillion Btu
+B3ACBUS,1954,Not Available,13,Other Renewable Fuels Consumption,Trillion Btu
+B3ACBUS,1955,Not Available,13,Other Renewable Fuels Consumption,Trillion Btu
+B3ACBUS,1956,Not Available,13,Other Renewable Fuels Consumption,Trillion Btu
+B3ACBUS,1957,Not Available,13,Other Renewable Fuels Consumption,Trillion Btu
+B3ACBUS,1958,Not Available,13,Other Renewable Fuels Consumption,Trillion Btu
+B3ACBUS,1959,Not Available,13,Other Renewable Fuels Consumption,Trillion Btu
+B3ACBUS,1960,Not Available,13,Other Renewable Fuels Consumption,Trillion Btu
+B3ACBUS,1961,Not Available,13,Other Renewable Fuels Consumption,Trillion Btu
+B3ACBUS,1962,Not Available,13,Other Renewable Fuels Consumption,Trillion Btu
+B3ACBUS,1963,Not Available,13,Other Renewable Fuels Consumption,Trillion Btu
+B3ACBUS,1964,Not Available,13,Other Renewable Fuels Consumption,Trillion Btu
+B3ACBUS,1965,Not Available,13,Other Renewable Fuels Consumption,Trillion Btu
+B3ACBUS,1966,Not Available,13,Other Renewable Fuels Consumption,Trillion Btu
+B3ACBUS,1967,Not Available,13,Other Renewable Fuels Consumption,Trillion Btu
+B3ACBUS,1968,Not Available,13,Other Renewable Fuels Consumption,Trillion Btu
+B3ACBUS,1969,Not Available,13,Other Renewable Fuels Consumption,Trillion Btu
+B3ACBUS,1970,Not Available,13,Other Renewable Fuels Consumption,Trillion Btu
+B3ACBUS,1971,Not Available,13,Other Renewable Fuels Consumption,Trillion Btu
+B3ACBUS,1972,Not Available,13,Other Renewable Fuels Consumption,Trillion Btu
+B3ACBUS,1973,Not Available,13,Other Renewable Fuels Consumption,Trillion Btu
+B3ACBUS,1974,Not Available,13,Other Renewable Fuels Consumption,Trillion Btu
+B3ACBUS,1975,Not Available,13,Other Renewable Fuels Consumption,Trillion Btu
+B3ACBUS,1976,Not Available,13,Other Renewable Fuels Consumption,Trillion Btu
+B3ACBUS,1977,Not Available,13,Other Renewable Fuels Consumption,Trillion Btu
+B3ACBUS,1978,Not Available,13,Other Renewable Fuels Consumption,Trillion Btu
+B3ACBUS,1979,Not Available,13,Other Renewable Fuels Consumption,Trillion Btu
+B3ACBUS,1980,Not Available,13,Other Renewable Fuels Consumption,Trillion Btu
+B3ACBUS,1981,Not Available,13,Other Renewable Fuels Consumption,Trillion Btu
+B3ACBUS,1982,Not Available,13,Other Renewable Fuels Consumption,Trillion Btu
+B3ACBUS,1983,Not Available,13,Other Renewable Fuels Consumption,Trillion Btu
+B3ACBUS,1984,Not Available,13,Other Renewable Fuels Consumption,Trillion Btu
+B3ACBUS,1985,Not Available,13,Other Renewable Fuels Consumption,Trillion Btu
+B3ACBUS,1986,Not Available,13,Other Renewable Fuels Consumption,Trillion Btu
+B3ACBUS,1987,Not Available,13,Other Renewable Fuels Consumption,Trillion Btu
+B3ACBUS,1988,Not Available,13,Other Renewable Fuels Consumption,Trillion Btu
+B3ACBUS,1989,Not Available,13,Other Renewable Fuels Consumption,Trillion Btu
+B3ACBUS,1990,Not Available,13,Other Renewable Fuels Consumption,Trillion Btu
+B3ACBUS,1991,Not Available,13,Other Renewable Fuels Consumption,Trillion Btu
+B3ACBUS,1992,Not Available,13,Other Renewable Fuels Consumption,Trillion Btu
+B3ACBUS,1993,Not Available,13,Other Renewable Fuels Consumption,Trillion Btu
+B3ACBUS,1994,Not Available,13,Other Renewable Fuels Consumption,Trillion Btu
+B3ACBUS,1995,Not Available,13,Other Renewable Fuels Consumption,Trillion Btu
+B3ACBUS,1996,Not Available,13,Other Renewable Fuels Consumption,Trillion Btu
+B3ACBUS,1997,Not Available,13,Other Renewable Fuels Consumption,Trillion Btu
+B3ACBUS,1998,Not Available,13,Other Renewable Fuels Consumption,Trillion Btu
+B3ACBUS,1999,Not Available,13,Other Renewable Fuels Consumption,Trillion Btu
+B3ACBUS,2000,Not Available,13,Other Renewable Fuels Consumption,Trillion Btu
+B3ACBUS,2001,Not Available,13,Other Renewable Fuels Consumption,Trillion Btu
+B3ACBUS,2002,Not Available,13,Other Renewable Fuels Consumption,Trillion Btu
+B3ACBUS,2003,Not Available,13,Other Renewable Fuels Consumption,Trillion Btu
+B3ACBUS,2004,Not Available,13,Other Renewable Fuels Consumption,Trillion Btu
+B3ACBUS,2005,Not Available,13,Other Renewable Fuels Consumption,Trillion Btu
+B3ACBUS,2006,Not Available,13,Other Renewable Fuels Consumption,Trillion Btu
+B3ACBUS,2007,Not Available,13,Other Renewable Fuels Consumption,Trillion Btu
+B3ACBUS,2008,Not Available,13,Other Renewable Fuels Consumption,Trillion Btu
+B3ACBUS,2009,No Data Reported,13,Other Renewable Fuels Consumption,Trillion Btu
+B3ACBUS,2010,0.253,13,Other Renewable Fuels Consumption,Trillion Btu
+B3ACBUS,2011,0.516,13,Other Renewable Fuels Consumption,Trillion Btu
+B3ACBUS,2012,0.554,13,Other Renewable Fuels Consumption,Trillion Btu
+B3ACBUS,2013,30.238,13,Other Renewable Fuels Consumption,Trillion Btu
+B3ACBUS,2014,28.067,13,Other Renewable Fuels Consumption,Trillion Btu
+B3ACBUS,2015,33.474,13,Other Renewable Fuels Consumption,Trillion Btu
+B3ACBUS,2016,33.552,13,Other Renewable Fuels Consumption,Trillion Btu
+B3ACBUS,2017,29.648,13,Other Renewable Fuels Consumption,Trillion Btu
+B3ACBUS,2018,19.417,13,Other Renewable Fuels Consumption,Trillion Btu
+B3ACBUS,2019,17.635,13,Other Renewable Fuels Consumption,Trillion Btu
+BMACBUS,1949,Not Available,14,Biomass Energy Consumed by the Transportation Sector,Trillion Btu
+BMACBUS,1950,Not Available,14,Biomass Energy Consumed by the Transportation Sector,Trillion Btu
+BMACBUS,1951,Not Available,14,Biomass Energy Consumed by the Transportation Sector,Trillion Btu
+BMACBUS,1952,Not Available,14,Biomass Energy Consumed by the Transportation Sector,Trillion Btu
+BMACBUS,1953,Not Available,14,Biomass Energy Consumed by the Transportation Sector,Trillion Btu
+BMACBUS,1954,Not Available,14,Biomass Energy Consumed by the Transportation Sector,Trillion Btu
+BMACBUS,1955,Not Available,14,Biomass Energy Consumed by the Transportation Sector,Trillion Btu
+BMACBUS,1956,Not Available,14,Biomass Energy Consumed by the Transportation Sector,Trillion Btu
+BMACBUS,1957,Not Available,14,Biomass Energy Consumed by the Transportation Sector,Trillion Btu
+BMACBUS,1958,Not Available,14,Biomass Energy Consumed by the Transportation Sector,Trillion Btu
+BMACBUS,1959,Not Available,14,Biomass Energy Consumed by the Transportation Sector,Trillion Btu
+BMACBUS,1960,Not Available,14,Biomass Energy Consumed by the Transportation Sector,Trillion Btu
+BMACBUS,1961,Not Available,14,Biomass Energy Consumed by the Transportation Sector,Trillion Btu
+BMACBUS,1962,Not Available,14,Biomass Energy Consumed by the Transportation Sector,Trillion Btu
+BMACBUS,1963,Not Available,14,Biomass Energy Consumed by the Transportation Sector,Trillion Btu
+BMACBUS,1964,Not Available,14,Biomass Energy Consumed by the Transportation Sector,Trillion Btu
+BMACBUS,1965,Not Available,14,Biomass Energy Consumed by the Transportation Sector,Trillion Btu
+BMACBUS,1966,Not Available,14,Biomass Energy Consumed by the Transportation Sector,Trillion Btu
+BMACBUS,1967,Not Available,14,Biomass Energy Consumed by the Transportation Sector,Trillion Btu
+BMACBUS,1968,Not Available,14,Biomass Energy Consumed by the Transportation Sector,Trillion Btu
+BMACBUS,1969,Not Available,14,Biomass Energy Consumed by the Transportation Sector,Trillion Btu
+BMACBUS,1970,Not Available,14,Biomass Energy Consumed by the Transportation Sector,Trillion Btu
+BMACBUS,1971,Not Available,14,Biomass Energy Consumed by the Transportation Sector,Trillion Btu
+BMACBUS,1972,Not Available,14,Biomass Energy Consumed by the Transportation Sector,Trillion Btu
+BMACBUS,1973,Not Available,14,Biomass Energy Consumed by the Transportation Sector,Trillion Btu
+BMACBUS,1974,Not Available,14,Biomass Energy Consumed by the Transportation Sector,Trillion Btu
+BMACBUS,1975,Not Available,14,Biomass Energy Consumed by the Transportation Sector,Trillion Btu
+BMACBUS,1976,Not Available,14,Biomass Energy Consumed by the Transportation Sector,Trillion Btu
+BMACBUS,1977,Not Available,14,Biomass Energy Consumed by the Transportation Sector,Trillion Btu
+BMACBUS,1978,Not Available,14,Biomass Energy Consumed by the Transportation Sector,Trillion Btu
+BMACBUS,1979,Not Available,14,Biomass Energy Consumed by the Transportation Sector,Trillion Btu
+BMACBUS,1980,Not Available,14,Biomass Energy Consumed by the Transportation Sector,Trillion Btu
+BMACBUS,1981,6.723,14,Biomass Energy Consumed by the Transportation Sector,Trillion Btu
+BMACBUS,1982,18.285,14,Biomass Energy Consumed by the Transportation Sector,Trillion Btu
+BMACBUS,1983,33.72,14,Biomass Energy Consumed by the Transportation Sector,Trillion Btu
+BMACBUS,1984,41.265,14,Biomass Energy Consumed by the Transportation Sector,Trillion Btu
+BMACBUS,1985,49.738,14,Biomass Energy Consumed by the Transportation Sector,Trillion Btu
+BMACBUS,1986,57.437,14,Biomass Energy Consumed by the Transportation Sector,Trillion Btu
+BMACBUS,1987,66.071,14,Biomass Energy Consumed by the Transportation Sector,Trillion Btu
+BMACBUS,1988,67.125,14,Biomass Energy Consumed by the Transportation Sector,Trillion Btu
+BMACBUS,1989,68.091,14,Biomass Energy Consumed by the Transportation Sector,Trillion Btu
+BMACBUS,1990,60.421,14,Biomass Energy Consumed by the Transportation Sector,Trillion Btu
+BMACBUS,1991,70.095,14,Biomass Energy Consumed by the Transportation Sector,Trillion Btu
+BMACBUS,1992,79.746,14,Biomass Energy Consumed by the Transportation Sector,Trillion Btu
+BMACBUS,1993,93.66,14,Biomass Energy Consumed by the Transportation Sector,Trillion Btu
+BMACBUS,1994,104.84,14,Biomass Energy Consumed by the Transportation Sector,Trillion Btu
+BMACBUS,1995,112.49,14,Biomass Energy Consumed by the Transportation Sector,Trillion Btu
+BMACBUS,1996,80.661,14,Biomass Energy Consumed by the Transportation Sector,Trillion Btu
+BMACBUS,1997,101.966,14,Biomass Energy Consumed by the Transportation Sector,Trillion Btu
+BMACBUS,1998,112.843,14,Biomass Energy Consumed by the Transportation Sector,Trillion Btu
+BMACBUS,1999,117.795,14,Biomass Energy Consumed by the Transportation Sector,Trillion Btu
+BMACBUS,2000,134.887,14,Biomass Energy Consumed by the Transportation Sector,Trillion Btu
+BMACBUS,2001,142.132,14,Biomass Energy Consumed by the Transportation Sector,Trillion Btu
+BMACBUS,2002,169.675,14,Biomass Energy Consumed by the Transportation Sector,Trillion Btu
+BMACBUS,2003,229.81,14,Biomass Energy Consumed by the Transportation Sector,Trillion Btu
+BMACBUS,2004,289.715,14,Biomass Energy Consumed by the Transportation Sector,Trillion Btu
+BMACBUS,2005,339.016,14,Biomass Energy Consumed by the Transportation Sector,Trillion Btu
+BMACBUS,2006,474.995,14,Biomass Energy Consumed by the Transportation Sector,Trillion Btu
+BMACBUS,2007,601.922,14,Biomass Energy Consumed by the Transportation Sector,Trillion Btu
+BMACBUS,2008,824.576,14,Biomass Energy Consumed by the Transportation Sector,Trillion Btu
+BMACBUS,2009,934.964,14,Biomass Energy Consumed by the Transportation Sector,Trillion Btu
+BMACBUS,2010,1074.788,14,Biomass Energy Consumed by the Transportation Sector,Trillion Btu
+BMACBUS,2011,1158.586,14,Biomass Energy Consumed by the Transportation Sector,Trillion Btu
+BMACBUS,2012,1159.874,14,Biomass Energy Consumed by the Transportation Sector,Trillion Btu
+BMACBUS,2013,1284.158,14,Biomass Energy Consumed by the Transportation Sector,Trillion Btu
+BMACBUS,2014,1302.341,14,Biomass Energy Consumed by the Transportation Sector,Trillion Btu
+BMACBUS,2015,1334.037,14,Biomass Energy Consumed by the Transportation Sector,Trillion Btu
+BMACBUS,2016,1442.687,14,Biomass Energy Consumed by the Transportation Sector,Trillion Btu
+BMACBUS,2017,1438.511,14,Biomass Energy Consumed by the Transportation Sector,Trillion Btu
+BMACBUS,2018,1414.74,14,Biomass Energy Consumed by the Transportation Sector,Trillion Btu
+BMACBUS,2019,1410.654,14,Biomass Energy Consumed by the Transportation Sector,Trillion Btu

@@ -1,0 +1,10 @@
+Symbol,Description,Exchange,Sector,Sub-Industry,Last Trade,% Change,Volume,Market Cap (B),Market_Cap_W,Dividend Yield,Divid_Yield_W,10 Years Return,Stock_Ret_W,iqual weighted
+SPY,Spdr S&P 500,NYSE ARCA,--,--,390.03,-0.18,83240971,340.71,1,1.46,1,2.84,1,1
+BAM,Brookfield Asset Mgm   F,NYSE,Financials,Asset Management & Custody Banks,43.45,-0.82,1896145,66.12,0.16,1.2,0.11,4.09,0.22,0.14
+ETN,Eaton Corp Plc         F,NYSE,Industrials,Electrical Components & Equipment,127.69,2.08,2662222,50.04,0.12,2.29,0.22,2.95,0.16,0.14
+GE,General Electric Co,NYSE,Industrials,Industrial Conglomerates,12.02,3.35,61049003,104.95,0.26,0.33,0.03,0.72,0.04,0.14
+NEE,Nextera Energy Inc,NYSE,Utilities,Electric Utilities,78.2,-3.26,9660915,159.12,0.39,1.79,0.17,4.55,0.25,0.14
+NRG,Nrg Energy Inc,NYSE,Utilities,Electric Utilities,39.85,4.43,5459721,9.91,0.02,3.26,0.31,1.67,0.09,0.14
+OC,Owens Corning Fiberglas,NYSE,Industrials,Building Products,85.08,3.33,968911,8.82,0.02,1.22,0.12,2.5,0.14,0.14
+ORA,Ormat Technologies,NYSE,Utilities,Renewable Electricity,112.72,3.82,668033,6.6,0.02,0.39,0.04,1.97,0.11,0.14
+Total,,,,,,,,405.56,1,10.48,1,18.44,1,1
