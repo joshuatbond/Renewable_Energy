@@ -15,7 +15,7 @@ To this end, we established three questions to assist in guiding our research an
 
 ## 1: Electricity Generation and Prices
 
-The question I sought to answer involved multiple parts. My approach began by gathering electricity generation data from all energy sources. To see the general composition of the electricty generation sector as a whole. I realized that monthly data was too noisy on the line graph, so the majority of the data was converted to an annual timeframe. Additionally, I decided to combine the varying renewable energy sources (hydro electric, geothermal, wind, and solar) to allow for better comparison between non-renewables and renewables. Prior to this, the values for renewables were so small relative to the other sources that it was hard to actually determine anything from visualizations.
+The question I sought to answer involved multiple parts. My approach began by gathering electricity generation data from all energy sources. To see the general composition of the electricity generation sector as a whole. I realized that monthly data was too noisy on the line graph, so the majority of the data was converted to an annual timeframe. Additionally, I decided to combine the varying renewable energy sources (hydro electric, geothermal, wind, and solar) to allow for better comparison between non-renewables and renewables. Prior to this, the values for renewables were so small relative to the other sources that it was hard to actually determine anything from visualizations.
 
 ![snip1-JB.png](image/README/1614192351925.png)
 
@@ -25,7 +25,7 @@ After annualizing the data, I was able to more clearly see how the different ele
 
 ![fig2-JB.png](image/README/1614191366716.png)
 
-Admittedly, I was surprised by the rapid growth of natural gas over the last three decades compared to the other sources. I assumed that it would be a front-runner, however, I did not expect its cumulative growth to dwarf all of the others by such a large degree.
+Admittedly, I was surprised by the rapid growth of natural gas over the last three decades compared to the other sources. I assumed that it would be a front-runner, however, I did not expect its cumulative growth to dwarf all the others by such a large degree.
 
 ![fig3-JB.png](image/README/1614191411214.png)
 
@@ -35,7 +35,7 @@ To further understand the composition of non-renewable and renewable sources in 
 
 ![fig5-JB.png](image/README/1614191457270.png)
 
-My interest in the last aspect of the question began from a simple curiousity about the cost of electricity over time as new technologies have developed and efficiencies have likely increased. However, my interest was amplified drastically due to the extreme winter weather that hit Houston, TX, the week of February 14th, 2021. During this time, the large majority of the Texas electrical grid failed and much of the state was left without power for several days. Speculation spread across Texas as people tried to understand how such a thing could happen. The frustration felt by much of the state throughout this ordeal motivated me to look deeper into electricity costs.
+My interest in the last aspect of the question began from a simple curiosity about the cost of electricity over time as new technologies have developed and efficiencies have likely increased. However, my interest was amplified drastically due to the extreme winter weather that hit Houston, TX, the week of February 14th, 2021. During this time, the large majority of the Texas electrical grid failed and much of the state was left without power for several days. Speculation spread across Texas as people tried to understand how such a thing could happen. The frustration felt by much of the state throughout this ordeal motivated me to look deeper into electricity costs.
 
 I began by collecting data on the cost of electricity to end users (I interpreted this to be the cost for producers to *get* electricity to consumers) and the residential retail cost of electricity. From this data, I created a visual to compare the two. I was taken aback by what I found. Of course, in business a profit margin of some sort is needed; However, I found that the retail cost of electricity had risen 57% since 1995, while the electricity cost to end users had actually fallen by 0.4 cents.
 
@@ -45,25 +45,25 @@ After my findings on the rise in retail cost, I decided to attempt to understand
 
 ![fig7-JB.png](image/README/1614191526868.png)
 
-The correlation results allowed me to see the degree of the relationship between the different variables, but I wanted to see if the electricity sources had any significant causal effect on the two costs. To achieve this I needed to perform a regression. The difference between correlation and regression is that the former captures the level of interrelation between two variables, while the latter is based on the causality of one variable on another. In addition, the correlation between two variables is the same for x and y as it is for y and x. In contrast, a regression will yield different results depending on whether you regress *x on y* or *y on x*.
+The correlation results allowed me to see the degree of the relationship between the different variables, but I wanted to see if the electricity sources had any significant causal effect on the two costs. To achieve this, I needed to perform a regression. The difference between correlation and regression is that the former captures the level of interrelation between two variables, while the latter is based on the causality of one variable on another. In addition, the correlation between two variables is the same for x and y as it is for y and x. In contrast, a regression will yield different results depending on whether you regress *x on y* or *y on x*.
 
-I decided I would use a linear regression, due to a shortage of time. This is one of the more basic regression types, but is still useful in drawing conclusions about data. To begin this process, I first needed to see the distribution of the variables to check for linearity normality because these are two of the primary assumptions of a linear regression.
+I decided I would use a linear regression, due to a shortage of time. This is one of the more basic regression types but is still useful in drawing conclusions about data. To begin this process, I first needed to see the distribution of the variables to check for linearity and normality because these are two of the primary assumptions of a linear regression.
 
 ![fig8-JB.png](image/README/1614196213516.png)
 
-From the distribution visuals, I could see that several of the variables were skewed so I had to transform the data to make it more appropriate for my needs. To accomplish this, I performed a logarithmic transformation on the right-skewed variables, and a exponential transformation on coal since it was left-skewed. The intented effect of these transformations, is to dampen the effect that outliers have on the model performance.
+From the distribution visuals, I could see that several of the variables were skewed so I had to transform the data to make it more appropriate for my needs. To accomplish this, I performed a logarithmic transformation on the right-skewed variables, and an exponential transformation on coal since it was left-skewed. The intended effect of these transformations is to dampen the effect that outliers have on the model performance.
 
 ![snip2-JB](image/README/1614197297082.png)
 
 This resulted in more normally distributed data.
 
-*(note: I must concede that a simple linear regression was likely not the best type to be used on this data since non-linear relationships were present along with other complications that were not completely resolved by transforming the data (i.e. multicollinearity, endogeneity, omitted variable bias, etc.). That being said, I feel it provided some basic insight into the causal relationship the source variables have on the dependent cost variables. A greater understanding could be attained by modifying the regression model, and/or using a more appropriate/sophisticated regression model.)*
+*(note: I must concede that a simple linear regression was likely not the best type to be used on this data since non-linear relationships were present along with other complications that were not completely resolved by transforming the data (i.e., multicollinearity, endogeneity, omitted variable bias, etc.). That being said, I feel it provided some basic insight into the causal relationship the source variables have on the dependent cost variables. A greater understanding could be attained by modifying the regression model, and/or using a more appropriate/sophisticated regression model.)*
 
 ![fig9-JB.png](image/README/1614196224340.png)
 
 The next step was to perform the regressions.
 
-I started by regressing *all* electricity generation sources on the two different costs. The first regression involved electricity cost (to end user). In regression analysis, the R-squared coefficient (the coefficient of determination) measures the goodness of fit for the model. In other words, it measures what proportion of the variability in the dependent variable can be explained by the independent (explanatory) variables in the model. The adjusted R-squared coefficient takes this a step further. It measures the total variability explained by the model, while also taking into consideration the number of variables in the model. This is because as you include additional variables in the model, the R-squared increases. Therefore, it is thought that since the adjusted R-squared penalizes the excessive use of variables, it is the more accurate of the two. Additionally, one should also consider the statistical significance of each coefficient among several other factors when determining the performance of a regression model. But for the sake of simplicity, I focused primarily on the adjusted R-squared value in this case.
+I started by regressing *all* electricity generation sources on the two different costs. In regression analysis, the R-squared coefficient (the coefficient of determination) measures the goodness of fit for the model. In other words, it measures what proportion of the variability in the dependent variable can be explained by the independent (explanatory) variables in the model. The adjusted R-squared coefficient takes this a step further. It measures the total variability explained by the model, while also taking into consideration the number of variables in the model. This is because as you include additional variables in the model, the R-squared increases. Therefore, it is thought that since the adjusted R-squared penalizes the excessive use of variables, it is the more accurate of the two. Additionally, one should also consider the statistical significance of each coefficient among several other factors when determining the performance of a regression model. But for the sake of simplicity, I focused primarily on the adjusted R-squared value in this case.
 
 ![reg1.png](image/README/1614198090839.png)
 
@@ -79,7 +79,7 @@ After looking at the causality of all sources, I split the non-renewable and ren
 
 ![reg6.png](image/README/1614198142278.png)
 
-All in all, it appears that the explanatory power of the different sources was considerably larger for the residential retail cost of electricity compared to the cost of electricity to the end consumer. Moreover, my initial assumption after reviewing the regression results is that the model is either lacking key explanatory variables for the electricity cost to the end user since the adjusted R-squared for these regressions were so low, or it may be that electricity generation sources simply have little causal effect on the variability in electricity cost. At the same time, despite the large adjusted R-squared values seen in the regressions on residential retail cost, I am skeptical as to their accuracy due to possible flaws in the model design. Further analysis is necessary to discover the true causal relationship of these factors.
+All in all, it appears that the explanatory power of the different sources was considerably larger for the residential retail cost of electricity compared to the cost of electricity to the end consumer. However, my initial assumption after reviewing the regression results is that the model is either lacking key explanatory variables for the electricity cost to the end user since the adjusted R-squared for these regressions was so low, or it may be that electricity generation sources simply have little causal effect on the variability in electricity cost. At the same time, despite the large adjusted R-squared values seen in the regressions on residential retail cost, I am skeptical as to their accuracy due to possible flaws in the model design. Further analysis is necessary to discover the true causal relationship of these factors.
 
 ## 2: Renewable Energy and Industry
 
